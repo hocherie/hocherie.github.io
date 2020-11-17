@@ -1,0 +1,43 @@
+---
+layout: post
+title: ''
+published: false
+---
+# ZSH Links
+After several years of using the default bash on Mac, I began to be frustrated by the limited functionality and made the switch to zsh. 
+
+It’s been three weeks since the switch and I’m loving every moment of it: the autosuggestion, themes, all harder to access without the original bash. 
+
+[GIF of current setup] 
+## How I switched over?
+I followed two main links to get it to work. Check them out too!
+* https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
+
+1. Install iTerm2. A macOS Terminal Replacement with loads of additional features (ex. Split panes)
+2. (If you don’t have home-brew), download it. It’s useful for installing other cool applications!
+Enter this in your new iTerm2!
+```
+xcode-select --install
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+3. Install zsh using homebrew. 
+`brew install zsh`
+* To test that we installed zsh correctly, type `echo $0`. It should return `zsh`.
+
+4. Install Oh My Zsh 
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+5. Set zsh as your default shell environment in iTerm2.
+a. Open ITerm2 -> Preferences -> Profiles -> General
+c. Under Command textbox, write `/bin/zsh`
+d. Restart iTerm2
+e. To test the shell env has changed, type
+`echo $0`. It should return `zsh`
+
+
+*Congrats! By now, you have zsh successfully set up. The following are optional steps to follow to install additional extensions to really capture zsh’s potential.*
+
+Some of my favorite plugins
+	1. Syntax Highlighting ()
+#todo Add GIF

@@ -1,0 +1,145 @@
+---
+layout: page
+title: Cherie Ho
+subtitle: 'Ph.D. Student in Robotics, CMU'
+published: true
+---
+
+Hi, I’m Cherie! I’m a third-year PhD Student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I am part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on shark-tracking underwater robots. I am currently supported by the [Croucher Foundation](https://croucher.org.hk/funding/study_awards/scholarships).
+
+My research interest is in the intersection of **field robotics, control theory and machine learning** towards the goal of bringing robots to uncertain safety-critical environments. Specifically, I’m interested in developing robot learning and control algorithms that **provide theoretical safety guarantees whilst deployed in the field**.
+<p align="center">
+  <a href="media/cherieho_cv_2020_10.pdf">CV</a> /
+  <a href="https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en">Google Scholar</a>
+</p>
+<!-- [CV](cherieho_cv_2020_06.pdf) / [Google Scholar](https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en) -->
+
+<p align="center">
+    <img src="img/cherie_collage_0819.gif"/>
+</p>
+
+### Selected News 
+* **Aug 2020** Excited to give an invited talk at UIUC's [ACRL Lab](http://naira.mechse.illinois.edu/).
+* **Jul 2020** [Mohammadreza](https://www.cs.cmu.edu/~mmousaei/) and I gave a tutorial session on "Guaranteeing Safety in the Real World". Watch our talk [here](https://youtu.be/vmRl8swiEyc)! Play with control barrier functions [here](https://github.com/hocherie/cbf_quadrotor)!
+* **Dec 2019** Our [journal paper](https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf) on Autonomous Aerial Cinematography was accepted to the Journal of Field Robotics.
+* **May 2019** I was awarded the [Croucher Foundation Scholarship](https://croucher.org.hk/funding/study_awards/scholarships) for the next two years! 
+<!-- * [2019/03] Invited to present research at the Amazon Graduate Student Symposium, Seattle. -->
+
+
+
+### Publications
+
+##### Under Review  
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/2020-05-tube.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <b>Adaptive Tube Library for Safe Online Planning Under Unknown Tracking Performance </b><br>
+        <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
+        <i>In Submission</i>, 2020<br> 
+        <a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
+    </div>
+</div>
+
+##### Journals
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px" vertical-align='middle'>
+        <img src="img/2019-12-filming-jfr.png"/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf"><b>Autonomous Aerial Cinematography Among Unstructured Environments With Online Artistic Decision-Making</b></a><br>
+        Rogerio Bonatti, Wenshan Wang, <b>Cherie Ho</b>, Aayush Ahuja, Mirko Gschwindt, Efe Camci, Erdal Kayacan, Sanjiban Choudhury, Sebastian Scherer<br>  
+        Journal of Field Robotics, 2019<br>
+        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf">[PDF]</a> <a href="https://youtu.be/ookhHnqmlaU">[Video]</a>
+    </div>
+</div>
+##### Peer-reviewed Conferences
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/2019-05-filming-iros.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://arxiv.org/abs/1904.02319"><b>Towards a Robust Aerial Cinematography Platform: Localizing and Tracking Moving Targets in Unstructured Environments</b></a><br>
+        Rogerio Bonatti, <b>Cherie Ho</b>, Wenshan Wang, Sanjiban Choudhury, Sebastian Scherer<br>
+        International Conference on Intelligent Robots and Systems (IROS), 2019<br>  
+        <a href="https://arxiv.org/abs/1904.02319">[PDF]</a> <a href="https://youtu.be/ZE9MnCVmumc">[Video]</a>
+    </div>
+</div>
+
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/2017-shark-agg.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="http://www.hmc.edu/lair/publications/2017/ho_SAC_2017.pdf"><b>Predicting coordinated group movements of sharks with limited observations using AUVs</b></a><br>
+        <b>Cherie Ho</b>, Kimberly Joly, Andrew P Nosal, Christopher G Lowe, Christopher M Clark<br>
+        ACM Symposium on Applied Computing (SAC), 2017<br>  
+        <a href="http://www.hmc.edu/lair/publications/2017/ho_SAC_2017.pdf">[PDF]</a>
+    </div>
+</div>
+
+##### Workshops
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/tube-cartoon.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://openreview.net/pdf?id=IIZGiKa8IK">
+        <b>Adaptive Tube Library for Safe Online Planning Under Unknown Tracking Performance </b><br>
+        </a>
+        <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
+        <i>RSS Workshop on Robust Autonomy</i>, 2020<br> 
+        <a href="https://openreview.net/pdf?id=IIZGiKa8IK">[PDF]</a><a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
+    </div>
+</div>
+
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/ecbf-timelapse-trimmed.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">
+        <b>“Provably Safe” in the Wild: Testing Control Barrier Functions on a Vision-Based Quadrotor in an Outdoor Environment </b><br></a>
+        <b>Cherie Ho*</b>, Katherine Shih*, Jaskaran Singh Grover, Changliu Liu, Sebastian Scherer<br>  
+        <i>RSS Workshop on Robust Autonomy</i>, 2020<br> 
+        <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">[PDF]</a><a href="https://youtu.be/1ohaMHlCmDA">[Video]</a><a href="https://github.com/hocherie/cbf_quadrotor">[Code]</a>
+    </div>
+</div>
+
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/2019-12-filming-jfr.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://www.dropbox.com/s/4elgk00d5k18mua/paper4.pdf?dl=0"><b>Autonomous Aerial Cinematography Among Unstructured Environments With Online Artistic Decision-Making</b></a><br>
+        <span style="color:red;">Best Paper Finalist</span> <br> 
+        Rogerio Bonatti, Wenshan Wang, <b>Cherie Ho</b>, Aayush Ahuja, Mirko Gschwindt, Efe Camci, Erdal Kayacan, Sanjiban Choudhury, Sebastian Scherer<br>  
+        <i>IROS Workshop on Vision-based Drone Navigation</i>, 2019<br> 
+        <a href="https://www.dropbox.com/s/4elgk00d5k18mua/paper4.pdf?dl=0">[PDF]</a>
+    </div>
+</div>
+
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/2018-mine.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://drive.google.com/file/d/15Q55RPX8ZWd-83oKYTa3aY4wm2O6isiH/view"><b>Learning Reactive Flight Control Policies: From LIDAR Measurements to Actions</b></a><br>
+        <span style="color:red;">Spotlight Talk</span> <br> 
+        Sam Zeng, Vaibhav Viswanathan, <b>Cherie Ho</b> and Sebastian Scherer<br>  
+        <i>NeurIPS Workshop on Imitation Learning and its Challenges in Robotics</i>, 2018<br> 
+        <!-- <span style="color:red;"><b>Spotlight Talk</b></span>  -->
+        <a href="https://drive.google.com/file/d/15Q55RPX8ZWd-83oKYTa3aY4wm2O6isiH/view">[PDF]</a>
+    </div>
+</div>
+
+### Honors & Awards
+* **2019-2021** Croucher Scholarship for Doctoral Study (Full Scholarship)
+* **2019** Best Paper Finalist, IROS Vision-based Drones Workshop
+* **2018** HMC INQ Inaugural Class (Harvey Mudd Startup Incubator)
+* **2017** Harvey Mudd College Johnson Excellence in Engineering Award
+* **2017** Harvey Mudd College Engineering Departmental Honors
+* **2016** University of Southern California Wrigley Institute Graduate Summer Fellowship (as an undergraduate)
+* **2014 - 2017** Jude and Eileen Laspa Fellowship in Autonomous Systems
+* **2015** First Place, MuddHacks (Gesture-controlled helicopter)
