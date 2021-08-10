@@ -19,9 +19,11 @@ My research interest is in the intersection of **field robotics, control theory 
 </p>
 
 ### Selected News 
+* **May-Aug 2021** Spending this summer at Microsoft working on "Pretraining for Safety" with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/)!
+* **Jul 2021** [Paper](https://arxiv.org/abs/2108.03936) on multi-drone human reconstruction in-the-wild accepted at IROS 2021!
+* **April 2021** Excited to give invited talks at Apple and Lehigh University. Watch the Lehigh talk [here](https://youtu.be/R1a-31YH3H8).
 * **Aug 2020** Excited to give an invited talk at UIUC's [ACRL Lab](http://naira.mechse.illinois.edu/).
 * **Jul 2020** [Mohammadreza](https://www.cs.cmu.edu/~mmousaei/) and I gave a tutorial session on "Guaranteeing Safety in the Real World". Watch our talk [here](https://youtu.be/vmRl8swiEyc)! Play with control barrier functions [here](https://github.com/hocherie/cbf_quadrotor)!
-* **Dec 2019** Our [journal paper](https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf) on Autonomous Aerial Cinematography was accepted to the Journal of Field Robotics.
 * **May 2019** I was awarded the [Croucher Foundation Scholarship](https://croucher.org.hk/funding/study_awards/scholarships) for the next two years! 
 <!-- * [2019/03] Invited to present research at the Amazon Graduate Student Symposium, Seattle. -->
 
@@ -55,6 +57,19 @@ My research interest is in the intersection of **field robotics, control theory 
     </div>
 </div>
 ##### Peer-reviewed Conferences
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/2021-multidrone.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://arxiv.org/abs/2108.03936"><b>3D Human Reconstruction in the Wild with Collaborative Aerial Cameras</b></a><br>
+        <b>Cherie Ho</b>, Andrew Jong, Harry Freeman, Rohan Rao, Rogerio Bonatti, Sebastian Scherer
+        <br>
+        International Conference on Intelligent Robots and Systems (IROS), 2021<br>  
+        <a href="https://arxiv.org/abs/2108.03936">[PDF]</a> <a href="https://youtu.be/jxt91vx0cns">[Video]</a>
+    </div>
+</div>
+
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px">
         <img src="img/2019-05-filming-iros.png" vertical-align='middle'/>
