@@ -5,9 +5,11 @@ subtitle: 'Ph.D. Student in Robotics, CMU'
 published: true
 ---
 
-Hi, I’m Cherie! I’m a third-year PhD Student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I am part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on shark-tracking underwater robots. I am currently supported by the [Croucher Foundation](https://croucher.org.hk/funding/study_awards/scholarships).
+Hi, I’m Cherie! I’m a third-year PhD Student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I am part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
+I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on shark-tracking underwater robots. Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
+I am currently supported by the [Croucher Foundation](https://croucher.org.hk/funding/study_awards/scholarships).
 
-My research interest is in the intersection of **field robotics, control theory and machine learning** towards the goal of bringing robots to uncertain safety-critical environments. Specifically, I’m interested in developing robot learning and control algorithms that **provide theoretical safety guarantees whilst deployed in the field**.
+My research interest is in the intersection of **field robotics, computer vision and machine learning** towards the goal of bringing robots to uncertain safety-critical environments. Specifically, I’m interested in developing robot learning and control algorithms that **provide theoretical safety guarantees whilst deployed in the field**.
 <p align="center">
   <a href="media/cherieho_cv_2020_10.pdf">CV</a> /
   <a href="https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en">Google Scholar</a>
@@ -20,7 +22,7 @@ My research interest is in the intersection of **field robotics, control theory 
 
 ### Selected News 
 * **May-Aug 2021** Spending this summer at Microsoft working on "Pretraining for Safety" with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/)!
-* **Jul 2021** [Paper](https://arxiv.org/abs/2108.03936) on multi-drone human reconstruction in-the-wild accepted at IROS 2021!
+* **Jul 2021** [Paper](https://arxiv.org/abs/2108.03936) on multi-drone human reconstruction accepted at IROS 2021!
 * **April 2021** Excited to give invited talks at Apple and Lehigh University. Watch the Lehigh talk [here](https://youtu.be/R1a-31YH3H8).
 * **Aug 2020** Excited to give an invited talk at UIUC's [ACRL Lab](http://naira.mechse.illinois.edu/).
 * **Jul 2020** [Mohammadreza](https://www.cs.cmu.edu/~mmousaei/) and I gave a tutorial session on "Guaranteeing Safety in the Real World". Watch our talk [here](https://youtu.be/vmRl8swiEyc)! Play with control barrier functions [here](https://github.com/hocherie/cbf_quadrotor)!
@@ -31,7 +33,7 @@ My research interest is in the intersection of **field robotics, control theory 
 
 ### Publications
 
-##### Under Review  
+##### Working Paper
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px">
         <img src="img/2020-05-tube.png" vertical-align='middle'/>
@@ -39,7 +41,7 @@ My research interest is in the intersection of **field robotics, control theory 
     <div style="margin-left:170px">
         <b>Adaptive Tube Library for Safe Online Planning Under Unknown Tracking Performance </b><br>
         <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
-        <i>In Submission</i>, 2020<br> 
+        <i>Preprint</i>, 2020<br> 
         <a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
     </div>
 </div>
