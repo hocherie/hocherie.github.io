@@ -33,19 +33,6 @@ My research interest is in the intersection of **field robotics, computer vision
 
 ### Publications
 
-##### Working Paper
-<div class="container" style="width: 100%; padding-top: 10px">
-    <div style="float: left; width:150px; padding-top: 15px">
-        <img src="img/2020-05-tube.png" vertical-align='middle'/>
-    </div>
-    <div style="margin-left:170px">
-        <b>Adaptive Tube Library for Safe Online Planning Under Unknown Tracking Performance </b><br>
-        <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
-        <i>Preprint</i>, 2020<br> 
-        <a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
-    </div>
-</div>
-
 ##### Journals
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px" vertical-align='middle'>
@@ -148,6 +135,19 @@ My research interest is in the intersection of **field robotics, computer vision
         <i>NeurIPS Workshop on Imitation Learning and its Challenges in Robotics</i>, 2018<br> 
         <!-- <span style="color:red;"><b>Spotlight Talk</b></span>  -->
         <a href="https://drive.google.com/file/d/15Q55RPX8ZWd-83oKYTa3aY4wm2O6isiH/view">[PDF]</a>
+    </div>
+</div>
+
+##### Working Paper
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/2020-05-tube.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <b>Adaptive Tube Library for Safe Online Planning Under Unknown Tracking Performance </b><br>
+        <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
+        <i>Preprint</i>, 2020<br> 
+        <a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
     </div>
 </div>
 
