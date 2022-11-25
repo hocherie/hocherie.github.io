@@ -25,7 +25,8 @@ description: Robotics PhD Student at CMU
 navbar-links:
   About Me: ""
   Projects:
-    - Multidrone Reconstruction [2020-]: ""
+    - High-Speed Offroad Driving [2021-]: "https://www.cmu.edu/news/stories/archives/2022/september/off-road-autonomy.html"
+    - Multidrone Reconstruction [2020-]: "https://theairlab.org/multidrone/"
     - Autonomous Drone Filming [2018-19]: "https://theairlab.org/drone-filming/"
     - Autonomous Shark Tracking [2015-17]: "sharktracking"
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
