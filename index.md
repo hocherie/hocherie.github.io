@@ -7,7 +7,6 @@ published: true
 
 Hi, I’m Cherie! I’m a PhD Student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I am part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
 I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on shark-tracking underwater robots. Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
-I am currently supported by the [Croucher Foundation](https://croucher.org.hk/funding/study_awards/scholarships).
 
 My research interest is in the intersection of **field robotics, computer vision and machine learning** towards the goal of bringing robots to uncertain safety-critical environments. Specifically, I develop robot learning algorithms to enable reliable autonomy in dynamic real-world applications, such as motion capture in [forests](https://youtu.be/jxt91vx0cns), search and rescue in [underground mines](https://drive.google.com/file/d/15Q55RPX8ZWd-83oKYTa3aY4wm2O6isiH/view), and now [offroad driving](https://www.cmu.edu/news/stories/archives/2022/september/off-road-autonomy.html). 
 <p align="center">
