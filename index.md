@@ -34,20 +34,6 @@ My research interest is in the intersection of **field robotics, computer vision
 
 ### Publications
 
-##### Preprint
-<div class="container" style="width: 100%; padding-top: 10px">
-    <div style="float: left; width:150px; padding-top: 15px">
-        <img src="img/alter_thumbnail.png" vertical-align='middle'/>
-    </div>
-    <div style="margin-left:170px">
-        <b>Map It Anywhere: Empowering BEV Map Prediction using Large-scale Public Datasets</b></a><br>
- <b>Cherie Ho*</b>, Jiaye Zou*, Omar Alama*, Sai Mitheran Jagadesh Kumar, Benjamin Chiang, Taneesh Gupta,
-Chen Wang, Nikhil Keetha, Katia Sycara, Sebastian Scherer 
-        <br>2024<br>  
-        PDF and demos coming soon...
-    </div>
-</div>
-
 ##### Peer-reviewed Conferences
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px">
