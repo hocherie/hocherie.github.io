@@ -20,11 +20,13 @@ My research interest is in the intersection of **field robotics, computer vision
 </p>
 
 ### Selected News 
-* **May-Aug 2021** Spending this summer at Microsoft working on "Pretraining for Safety" with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/)!
+* **Jul 2024** Paper on online learning for offroad driving accepted to IROS 2024!
+* **Mar 2024** Our workshop on autonomous off-road driving is accepted to ICRA 2024!
+<!-- * **May-Aug 2021** Spending this summer at Microsoft working on "Pretraining for Safety" with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/)! -->
 * **Jul 2021** [Paper](https://arxiv.org/abs/2108.03936) on multi-drone human reconstruction accepted at IROS 2021!
-* **April 2021** Excited to give invited talks at Apple and Lehigh University. Watch the Lehigh talk [here](https://youtu.be/R1a-31YH3H8).
+<!-- * **April 2021** Excited to give invited talks at Apple and Lehigh University. Watch the Lehigh talk [here](https://youtu.be/R1a-31YH3H8).
 * **Aug 2020** Excited to give an invited talk at UIUC's [ACRL Lab](http://naira.mechse.illinois.edu/).
-* **Jul 2020** [Mohammadreza](https://www.cs.cmu.edu/~mmousaei/) and I gave a tutorial session on "Guaranteeing Safety in the Real World". Watch our talk [here](https://youtu.be/vmRl8swiEyc)! Play with control barrier functions [here](https://github.com/hocherie/cbf_quadrotor)!
+* **Jul 2020** [Mohammadreza](https://www.cs.cmu.edu/~mmousaei/) and I gave a tutorial session on "Guaranteeing Safety in the Real World". Watch our talk [here](https://youtu.be/vmRl8swiEyc)! Play with control barrier functions [here](https://github.com/hocherie/cbf_quadrotor)! -->
 * **May 2019** I was awarded the [Croucher Foundation Scholarship](https://croucher.org.hk/funding/study_awards/scholarships) for the next two years! 
 <!-- * [2019/03] Invited to present research at the Amazon Graduate Student Symposium, Seattle. -->
 
@@ -32,19 +34,33 @@ My research interest is in the intersection of **field robotics, computer vision
 
 ### Publications
 
-##### Journals
+##### Preprint
 <div class="container" style="width: 100%; padding-top: 10px">
-    <div style="float: left; width:150px; padding-top: 15px" vertical-align='middle'>
-        <img src="img/2019-12-filming-jfr.png"/>
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/alter_thumbnail.png" vertical-align='middle'/>
     </div>
     <div style="margin-left:170px">
-        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf"><b>Autonomous Aerial Cinematography Among Unstructured Environments With Online Artistic Decision-Making</b></a><br>
-        Rogerio Bonatti, Wenshan Wang, <b>Cherie Ho</b>, Aayush Ahuja, Mirko Gschwindt, Efe Camci, Erdal Kayacan, Sanjiban Choudhury, Sebastian Scherer<br>  
-        Journal of Field Robotics, 2019<br>
-        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf">[PDF]</a> <a href="https://youtu.be/ookhHnqmlaU">[Video]</a>
+        <b>Map It Anywhere: Empowering BEV Map Prediction using Large-scale Public Datasets</b></a><br>
+ <b>Cherie Ho*</b>, Jiaye Zou*, Omar Alama*, Sai Mitheran Jagadesh Kumar, Benjamin Chiang, Taneesh Gupta,
+Chen Wang, Nikhil Keetha, Katia Sycara, Sebastian Scherer 
+        <br>2024<br>  
+        PDF and demos coming soon...
     </div>
 </div>
+
 ##### Peer-reviewed Conferences
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/alter_thumbnail.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://arxiv.org/abs/2306.15226"><b>Learning-on-the-Drive: Self-supervised Adaptation of Visual Offroad Traversability Models</b></a><br>
+        <b>Cherie Ho*</b>, Eric Chen*, Mukhtar Maulimov, Chen Wang, Sebastian Scherer
+        <br>
+        International Conference on Intelligent Robots and Systems (IROS), 2024<br>  
+        <a href="https://arxiv.org/abs/2306.15226">[PDF, updated version coming soon]</a>
+    </div>
+</div>
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px">
         <img src="img/2021-multidrone.png" vertical-align='middle'/>
@@ -89,11 +105,11 @@ My research interest is in the intersection of **field robotics, computer vision
     </div>
     <div style="margin-left:170px">
         <a href="https://openreview.net/pdf?id=IIZGiKa8IK">
-        <b>Adaptive Tube Library for Safe Online Planning Under Unknown Tracking Performance </b><br>
+        <b>Adaptive Safety Margin Estimation for Safe Real-Time Replanning under Time-Varying Disturbance </b><br>
         </a>
         <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
-        <i>RSS Workshop on Robust Autonomy</i>, 2020<br> 
-        <a href="https://openreview.net/pdf?id=IIZGiKa8IK">[PDF]</a><a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
+        <i>RSS Workshop on Robust Autonomy</i>, 2020<br> <a href="https://arxiv.org/abs/2110.03119">[Shorter Workshop Paper]</a>
+        <a href="https://openreview.net/pdf?id=IIZGiKa8IK">[Shorter Workshop Paper]</a><a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
     </div>
 </div>
 
@@ -137,18 +153,21 @@ My research interest is in the intersection of **field robotics, computer vision
     </div>
 </div>
 
-##### Working Paper
+
+##### Journals
 <div class="container" style="width: 100%; padding-top: 10px">
-    <div style="float: left; width:150px; padding-top: 15px">
-        <img src="img/2020-05-tube.png" vertical-align='middle'/>
+    <div style="float: left; width:150px; padding-top: 15px" vertical-align='middle'>
+        <img src="img/2019-12-filming-jfr.png"/>
     </div>
     <div style="margin-left:170px">
-        <b>Adaptive Tube Library for Safe Online Planning Under Unknown Tracking Performance </b><br>
-        <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
-        <i>Preprint</i>, 2020<br> 
-        <a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
+        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf"><b>Autonomous Aerial Cinematography Among Unstructured Environments With Online Artistic Decision-Making</b></a><br>
+        Rogerio Bonatti, Wenshan Wang, <b>Cherie Ho</b>, Aayush Ahuja, Mirko Gschwindt, Efe Camci, Erdal Kayacan, Sanjiban Choudhury, Sebastian Scherer<br>  
+        Journal of Field Robotics, 2019<br>
+        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf">[PDF]</a> <a href="https://youtu.be/ookhHnqmlaU">[Video]</a>
     </div>
 </div>
+
+
 
 ### Honors & Awards
 * **2019-2021** Croucher Scholarship for Doctoral Study (Full Scholarship)
