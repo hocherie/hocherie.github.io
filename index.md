@@ -33,11 +33,24 @@ My research interest is in the intersection of **field robotics, computer vision
 
 
 ### Publications
-
-##### Peer-reviewed Conferences
+##### Preprints
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px">
-        <img src="img/alter_thumbnail.png" vertical-align='middle'/>
+        <img src="img/mia_thumbnail.png" vertical-align='middle'/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://arxiv.org/abs/2306.15226"><b>Map It Anywhere: Empowering BEV Map Prediction using Large-scale Public Datasets</b></a><br>
+         <b>Cherie Ho*</b>, Jiaye Zou*, Omar Alama*, Sai Mitheran Jagadesh Kumar, Benjamin Chiang, Taneesh Gupta,
+Chen Wang, Nikhil Keetha, Katia Sycara, Sebastian Scherer 
+        <br>
+        <a href="https://arxiv.org/abs/2407.08726">[PDF]</a>
+    </div>
+</div>
+
+##### Peer-reviewed Conferences and Journals
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px">
+        <img src="img/alter_gif.gif" vertical-align='middle'/>
     </div>
     <div style="margin-left:170px">
         <a href="https://arxiv.org/abs/2306.15226"><b>Learning-on-the-Drive: Self-supervised Adaptation of Visual Offroad Traversability Models</b></a><br>
@@ -47,9 +60,10 @@ My research interest is in the intersection of **field robotics, computer vision
         <a href="https://arxiv.org/abs/2306.15226">[PDF, updated version coming soon]</a>
     </div>
 </div>
+
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px">
-        <img src="img/2021-multidrone.png" vertical-align='middle'/>
+        <img src="img/multidrone_gif.gif" vertical-align='middle'/>
     </div>
     <div style="margin-left:170px">
         <a href="https://arxiv.org/abs/2108.03936"><b>3D Human Reconstruction in the Wild with Collaborative Aerial Cameras</b></a><br>
@@ -59,6 +73,19 @@ My research interest is in the intersection of **field robotics, computer vision
         <a href="https://arxiv.org/abs/2108.03936">[PDF]</a> <a href="https://youtu.be/jxt91vx0cns">[Video]</a>
     </div>
 </div>
+
+<div class="container" style="width: 100%; padding-top: 10px">
+    <div style="float: left; width:150px; padding-top: 15px" vertical-align='middle'>
+        <img src="img/2019-12-filming-jfr.png"/>
+    </div>
+    <div style="margin-left:170px">
+        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf"><b>Autonomous Aerial Cinematography Among Unstructured Environments With Online Artistic Decision-Making</b></a><br>
+        Rogerio Bonatti, Wenshan Wang, <b>Cherie Ho</b>, Aayush Ahuja, Mirko Gschwindt, Efe Camci, Erdal Kayacan, Sanjiban Choudhury, Sebastian Scherer<br>  
+        Journal of Field Robotics, 2019<br>
+        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf">[PDF]</a> <a href="https://youtu.be/ookhHnqmlaU">[Video]</a>
+    </div>
+</div>
+
 
 <div class="container" style="width: 100%; padding-top: 10px">
     <div style="float: left; width:150px; padding-top: 15px">
@@ -136,20 +163,6 @@ My research interest is in the intersection of **field robotics, computer vision
         <i>NeurIPS Workshop on Imitation Learning and its Challenges in Robotics</i>, 2018<br> 
         <!-- <span style="color:red;"><b>Spotlight Talk</b></span>  -->
         <a href="https://drive.google.com/file/d/15Q55RPX8ZWd-83oKYTa3aY4wm2O6isiH/view">[PDF]</a>
-    </div>
-</div>
-
-
-##### Journals
-<div class="container" style="width: 100%; padding-top: 10px">
-    <div style="float: left; width:150px; padding-top: 15px" vertical-align='middle'>
-        <img src="img/2019-12-filming-jfr.png"/>
-    </div>
-    <div style="margin-left:170px">
-        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf"><b>Autonomous Aerial Cinematography Among Unstructured Environments With Online Artistic Decision-Making</b></a><br>
-        Rogerio Bonatti, Wenshan Wang, <b>Cherie Ho</b>, Aayush Ahuja, Mirko Gschwindt, Efe Camci, Erdal Kayacan, Sanjiban Choudhury, Sebastian Scherer<br>  
-        Journal of Field Robotics, 2019<br>
-        <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf">[PDF]</a> <a href="https://youtu.be/ookhHnqmlaU">[Video]</a>
     </div>
 </div>
 
