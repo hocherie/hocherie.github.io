@@ -10,7 +10,7 @@ I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](htt
 
 My research interest is in the intersection of **field robotics, computer vision and machine learning** towards the goal of bringing robots to uncertain safety-critical environments. Specifically, I develop robot learning algorithms to enable reliable autonomy in dynamic real-world applications, such as motion capture in [forests](https://youtu.be/jxt91vx0cns), high-speed [offroad driving](https://www.cmu.edu/news/stories/archives/2022/september/off-road-autonomy.html), and now autonomous wheelchairs.
 <p align="center">
-  <a href="media/cherieho_cv_2020_10.pdf">CV</a> /
+  <a href="media/cherieho_cv_2024_09.pdf">CV</a> /
   <a href="https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en">Google Scholar</a>
 </p>
 <!-- [CV](cherieho_cv_2020_06.pdf) / [Google Scholar](https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en) -->
