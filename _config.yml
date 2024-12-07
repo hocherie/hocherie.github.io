@@ -24,15 +24,16 @@ description: Robotics PhD Student at CMU
 # List of links in the navigation bar
 navbar-links:
   About Me: ""
+  Research: "research"
   Publications: "publications"
   # Projects:
   #   - High-Speed Offroad Driving [2021-]: "https://www.cmu.edu/news/stories/archives/2022/september/off-road-autonomy.html"
   #   - Multidrone Reconstruction [2020-]: "https://theairlab.org/multidrone/"
   #   - Autonomous Drone Filming [2018-19]: "https://theairlab.org/drone-filming/"
   #   - Autonomous Shark Tracking [2015-17]: "sharktracking"
+  Resources: "resources"
   Blogs:
     - Upgrading MacOS Terminal: "2018-11-24-upgrade-terminal"
-  Resources and Outreach: "resources"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
