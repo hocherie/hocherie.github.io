@@ -3,6 +3,7 @@ layout: page
 title: Cherie Ho
 subtitle: 'Robotics Ph.D. Student, CMU'
 published: true
+css: /css/cherie.css
 ---
 
 Hi, I’m Cherie! I’m a PhD Student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I am part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
@@ -32,70 +33,15 @@ My research interest is in the intersection of **field robotics, computer vision
 <!-- * [2019/03] Invited to present research at the Amazon Graduate Student Symposium, Seattle. -->
 
 
+<br>
+### Selected Publications
+See the full list of my publication [here](publications).
 
-### Publications
-<style>
-    .container {
-        width: 100%;
-        padding-top: 10px;
-    }
-
-    .year-section {
-        margin-top: 40px;
-    }
-
-    .year-heading {
-        font-size: 24px;
-        font-weight: bold;
-        margin-bottom: 20px;
-        color: lightgrey; /* Light grey color for the text */
-        text-align: right; /* Aligns text to the right */
-        position: relative; /* Enables positioning of the bar */
-    }
-
-    .year-heading::before {
-        content: ""; /* Creates the horizontal bar */
-        display: block;
-        width: 100%; /* Full width of the container */
-        height: 2px; /* Thickness of the bar */
-        background-color: lightgrey; /* Bar color */
-        margin-bottom: 10px; /* Space between the bar and the text */
-    }
-
-    #thumbnail-container {
-        float: left;
-        width: var(--thumbnail-size, 250px); /* Default size is 150px */
-        padding-top: 15px;
-    }
-    #thumbnail {
-        width: 100%;
-        vertical-align: middle;
-    }
-    #content {
-        margin-left: calc(var(--thumbnail-size, 250px) + 20px); /* Adjust margin based on thumbnail size */
-    }
-</style>
-<style>
-  #thumbnail-container {
-    display: inline-block;
-  }
-
-  #thumbnail {
-    width: 100%; /* Adjust the size as needed */
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* Drop shadow */
-    border-radius: 8px; /* Optional: Adds rounded corners */
-  }
-
-  #content {
-    margin-top: 10px; /* Optional: Adjust spacing */
-  }
-</style>
 <div class="year-section" id="year-2024">
     <div class="year-heading">2024</div>
     <div class="container">
         <div id="thumbnail-container">
             <img id="thumbnail" src="img/mia_gif.gif"/>
-            <!-- <img id='thumbnail' src="img/mia_thumbnail.png"/> -->
         </div>
         <div id="content">
             <a href="https://mapitanywhere.github.io/"><b>Map It Anywhere: Empowering BEV Map Prediction using Large-scale Public Datasets</b></a><br>
@@ -109,7 +55,19 @@ My research interest is in the intersection of **field robotics, computer vision
             >[Code]</a> 
         </div>
     </div>
-
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/alter_gif.gif"/>
+        </div>
+        <div id="content">
+            <a href="https://arxiv.org/abs/2306.15226"><b>Learning-on-the-Drive: Self-supervised Adaptation of Visual Offroad Traversability Models</b></a><br>
+            <b>Cherie Ho*</b>, Eric Chen*, Mukhtar Maulimov, Chen Wang, Sebastian Scherer
+            <br>
+            <br>
+            <i>International Conference on Intelligent Robots and Systems (IROS)</i>, 2024<br>  
+            <a href="https://arxiv.org/abs/2306.15226">[PDF]</a>
+        </div>
+    </div>
     <div class="container">
         <div id="thumbnail-container">
             <img id="thumbnail" src="img/mapex_thumbnail.png"/>
@@ -124,19 +82,6 @@ My research interest is in the intersection of **field robotics, computer vision
         </div>
     </div>
 
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/alter_gif.gif"/>
-        </div>
-        <div id="content">
-            <a href="https://arxiv.org/abs/2306.15226"><b>Learning-on-the-Drive: Self-supervised Adaptation of Visual Offroad Traversability Models</b></a><br>
-            <b>Cherie Ho*</b>, Eric Chen*, Mukhtar Maulimov, Chen Wang, Sebastian Scherer
-            <br>
-            <br>
-            <i>International Conference on Intelligent Robots and Systems (IROS)</i>, 2024<br>  
-            <a href="https://arxiv.org/abs/2306.15226">[PDF]</a>
-        </div>
-    </div>
 
     <div class="container">
         <div id="thumbnail-container">
@@ -153,37 +98,8 @@ My research interest is in the intersection of **field robotics, computer vision
         </div>
     </div>
 
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/ff_thumbnail.png"/>
-        </div>
-        <div id="content">
-            <a href="https://arxiv.org/pdf/2403.11876"><b>Deep Bayesian Future Fusion for Self-Supervised, High-Resolution, Off-Road Mapping</b></a><br>
-            Shubhra Aich, Wenshan Wang, Parv Maheshwari, Matthew Sivaprakasam, Samuel Triest, <b>Cherie Ho</b>, Jason M Gregory, John G Rogers III, Sebastian Scherer        <br>
-            <br>
-            <i>In Submission</i>, 2024<br>  
-            <a href="https://arxiv.org/pdf/2403.11876">[PDF]</a>
-        </div>
-    </div>
 </div>
 
-
-<div class="year-section" id="year-2023">
-    <div class="year-heading">2023</div>
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/tartandrive.png"/>
-        </div>
-        <div id="content">
-            <a href="https://openreview.net/pdf?id=7Y1pnhFJUT"><b>TartanDrive 1.5: Improving Large Multimodal Robotics Dataset Collection and Distribution</b></a><br>
-            Matthew Sivaprakasam, Samuel Triest, Mateo Guaman Castro, Micah Nye, Mukhtar Maulimov, <b>Cherie Ho</b>, Parv Maheshwari, Wenshan Wang, Sebastian Scherer
-            <br>
-            <br>
-            <i>ICRA Workshop on Pretraining4Robotics</i>, 2023<br>  
-            <a href="https://openreview.net/pdf?id=7Y1pnhFJUT">[PDF]</a> 
-        </div>
-    </div>
-</div>
 
 <div class="year-section" id="year-2021">
     <div class="year-heading">2021</div>
@@ -201,105 +117,6 @@ My research interest is in the intersection of **field robotics, computer vision
         </div>
     </div>
 </div>
-
-<div class="year-section" id="year-2020">
-    <div class="year-heading">2020</div>
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/adaptivetube.gif"/>
-        </div>
-        <div id="content">
-            <a href="https://arxiv.org/abs/2110.03119">
-            <b>Adaptive Safety Margin Estimation for Safe Real-Time Replanning under Time-Varying Disturbance </b><br>
-            </a>
-            <b>Cherie Ho</b>, Jay Patrikar, Rogerio Bonatti, Sebastian Scherer<br>  
-            <br>
-            <i>RSS Workshop on Robust Autonomy</i>, 2020<br> <a href="https://arxiv.org/abs/2110.03119">[Paper]</a>
-            <a href="https://openreview.net/pdf?id=IIZGiKa8IK">[Shorter Workshop Paper]</a><a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
-        </div>
-    </div>
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/ecbf-timelapse-trimmed.png"/>
-        </div>
-        <div id="content">
-            <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">
-            <b>“Provably Safe” in the Wild: Testing Control Barrier Functions on a Vision-Based Quadrotor in an Outdoor Environment </b><br></a>
-            <b>Cherie Ho*</b>, Katherine Shih*, Jaskaran Singh Grover, Changliu Liu, Sebastian Scherer<br>  
-            <br>
-            <i>RSS Workshop on Robust Autonomy</i>, 2020<br> 
-            <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">[PDF]</a><a href="https://youtu.be/1ohaMHlCmDA">[Video]</a><a href="https://github.com/hocherie/cbf_quadrotor">[Code]</a>
-        </div>
-    </div>
-</div>
-
-<div class="year-section" id="year-2019">
-    <div class="year-heading">2019</div>
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/2019-12-filming-jfr.png">
-        </div>
-        <div id="content">
-            <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf">
-            <b>Autonomous Aerial Cinematography Among Unstructured Environments With Online Artistic Decision-Making</b></a><br>
-            Rogerio Bonatti, Wenshan Wang, <b>Cherie Ho</b>, Aayush Ahuja, Mirko Gschwindt, Efe Camci, Erdal Kayacan, Sanjiban Choudhury, Sebastian Scherer<br>  
-            <br>
-            <i>Journal of Field Robotics</i>, 2019<br>
-            IROS Workshop on Vision-based Drone Navigation, 2019 <span style="color:red;">[Best Paper Finalist]</span><br> 
-            <a href="https://www.ri.cmu.edu/wp-content/uploads/2020/03/rob.21931.pdf">[PDF]</a> <a href="https://youtu.be/ookhHnqmlaU">[Video]</a>
-        </div>
-    </div>
-
-
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/2019-05-filming-iros.png">
-        </div>
-        <div id="content">
-            <a href="https://arxiv.org/abs/1904.02319"><b>Towards a Robust Aerial Cinematography Platform: Localizing and Tracking Moving Targets in Unstructured Environments</b></a><br>
-            Rogerio Bonatti, <b>Cherie Ho</b>, Wenshan Wang, Sanjiban Choudhury, Sebastian Scherer<br>
-            <br>
-            <i>International Conference on Intelligent Robots and Systems (IROS)</i>, 2019<br>  
-            <a href="https://arxiv.org/abs/1904.02319">[PDF]</a> <a href="https://youtu.be/ZE9MnCVmumc">[Video]</a>
-        </div>
-    </div>
-</div>
-
-<div class="year-section" id="year-2018">
-    <div class="year-heading">2018</div>
-<div class="container">
-    <div id="thumbnail-container">
-        <img id="thumbnail" src="img/2018-mine.png">
-    </div>
-    <div id="content">
-        <a href="https://drive.google.com/file/d/15Q55RPX8ZWd-83oKYTa3aY4wm2O6isiH/view"><b>Learning Reactive Flight Control Policies: From LIDAR Measurements to Actions</b></a><br>
-        Sam Zeng, Vaibhav Viswanathan, <b>Cherie Ho</b> and Sebastian Scherer<br>  
-        <br>
-        <i>NeurIPS Workshop on Imitation Learning and its Challenges in Robotics</i>, 2018
-        <span style="color:red;"><b>[Spotlight Talk]</b></span> 
-        <br>
-        <a href="https://drive.google.com/file/d/15Q55RPX8ZWd-83oKYTa3aY4wm2O6isiH/view">[PDF]</a>
-    </div>
-</div>
-</div>
-
-<div class="year-section" id="year-2017">
-    <div class="year-heading">2017</div>
-<div class="container">
-    <div id="thumbnail-container">
-        <img id="thumbnail" src="img/2017-shark-agg.png">
-    </div>
-    <div id="content">
-        <a href="http://www.hmc.edu/lair/publications/2017/ho_SAC_2017.pdf"><b>Predicting coordinated group movements of sharks with limited observations using AUVs</b></a><br>
-        <b>Cherie Ho</b>, Kimberly Joly, Andrew P Nosal, Christopher G Lowe, Christopher M Clark<br>
-        <br>
-        <i>ACM Symposium on Applied Computing (SAC)</i>, 2017<br>  
-        <a href="http://www.hmc.edu/lair/publications/2017/ho_SAC_2017.pdf">[PDF]</a>
-    </div>
-</div>
-</div>
-
-
 
 
 ### Honors & Awards

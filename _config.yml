@@ -24,11 +24,12 @@ description: Robotics PhD Student at CMU
 # List of links in the navigation bar
 navbar-links:
   About Me: ""
-  Projects:
-    - High-Speed Offroad Driving [2021-]: "https://www.cmu.edu/news/stories/archives/2022/september/off-road-autonomy.html"
-    - Multidrone Reconstruction [2020-]: "https://theairlab.org/multidrone/"
-    - Autonomous Drone Filming [2018-19]: "https://theairlab.org/drone-filming/"
-    - Autonomous Shark Tracking [2015-17]: "sharktracking"
+  Publications: "publications"
+  # Projects:
+  #   - High-Speed Offroad Driving [2021-]: "https://www.cmu.edu/news/stories/archives/2022/september/off-road-autonomy.html"
+  #   - Multidrone Reconstruction [2020-]: "https://theairlab.org/multidrone/"
+  #   - Autonomous Drone Filming [2018-19]: "https://theairlab.org/drone-filming/"
+  #   - Autonomous Shark Tracking [2015-17]: "sharktracking"
   Blogs:
     - Upgrading MacOS Terminal: "2018-11-24-upgrade-terminal"
   Resources and Outreach: "resources"

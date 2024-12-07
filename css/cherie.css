@@ -1,0 +1,95 @@
+.container {
+    width: 100%;
+    padding-top: 10px;
+}
+
+.year-section {
+    margin-top: 40px;
+}
+
+.year-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: lightgrey;
+    /* Light grey color for the text */
+    text-align: right;
+    /* Aligns text to the right */
+    position: relative;
+    /* Enables positioning of the bar */
+}
+
+.year-heading::before {
+    content: "";
+    /* Creates the horizontal bar */
+    display: block;
+    width: 100%;
+    /* Full width of the container */
+    height: 2px;
+    /* Thickness of the bar */
+    background-color: lightgrey;
+    /* Bar color */
+    margin-bottom: 10px;
+    /* Space between the bar and the text */
+}
+
+#thumbnail-container {
+    float: left;
+    width: var(--thumbnail-size, 250px);
+    /* Default size is 150px */
+    padding-top: 15px;
+}
+
+#thumbnail {
+    width: 100%;
+    vertical-align: middle;
+}
+
+#content {
+    margin-left: calc(var(--thumbnail-size, 250px) + 20px);
+    /* Adjust margin based on thumbnail size */
+}
+
+#thumbnail-container {
+    display: inline-block;
+}
+
+#thumbnail {
+    width: 100%;
+    /* Adjust the size as needed */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    /* Drop shadow */
+    border-radius: 8px;
+    /* Optional: Adds rounded corners */
+}
+
+#content {
+    margin-top: 10px;
+    /* Optional: Adjust spacing */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 600px) {
+    :root {
+        --thumbnail-size: 150px;
+        /* Smaller size for mobile devices */
+    }
+
+    #thumbnail-container {
+        float: none;
+        /* Prevent floating on small screens */
+        width: 100%;
+        /* Full width */
+        text-align: center;
+        /* Center align */
+        padding-top: 10px;
+        /* Adjust padding for better spacing */
+    }
+
+    #content {
+        margin-left: 0;
+        /* Reset margin for smaller screens */
+        margin-top: 15px;
+        /* Add some spacing from the thumbnail */
+    }
+}
