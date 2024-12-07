@@ -147,7 +147,7 @@ My research interest is in the intersection of **field robotics, computer vision
             Matthew Sivaprakasam, Samuel Triest, <b>Cherie Ho</b>, Shubhra Aich, Jeric Lew, Isaiah Adu, Wenshan Wang, Sebastian Scherer
             <br>
             <i>In Submission</i>, 2024<br>  
-            <a href="https://https://theairlab.org/SALON">[Website]</a>
+            <a href="https://theairlab.org/SALON">[Website]</a>
             <a href="https://theairlab.org/SALON/assets/Adaptive_Costmaps_ICRA_2025__arxiv_.pdf">[PDF]</a>
             <a href="https://github.com/castacks/salon_ws">[PDF]</a>
         </div>
@@ -217,21 +217,19 @@ My research interest is in the intersection of **field robotics, computer vision
             <i>RSS Workshop on Robust Autonomy</i>, 2020<br> <a href="https://arxiv.org/abs/2110.03119">[Paper]</a>
             <a href="https://openreview.net/pdf?id=IIZGiKa8IK">[Shorter Workshop Paper]</a><a href="https://youtu.be/nrcfQx3rJnw">[Video]</a>
         </div>
-
-
-<div class="container">
-    <div id="thumbnail-container">
-        <img id="thumbnail" src="img/ecbf-timelapse-trimmed.png"/>
     </div>
-    <div id="content">
-        <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">
-        <b>“Provably Safe” in the Wild: Testing Control Barrier Functions on a Vision-Based Quadrotor in an Outdoor Environment </b><br></a>
-        <b>Cherie Ho*</b>, Katherine Shih*, Jaskaran Singh Grover, Changliu Liu, Sebastian Scherer<br>  
-        <br>
-        <i>RSS Workshop on Robust Autonomy</i>, 2020<br> 
-        <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">[PDF]</a><a href="https://youtu.be/1ohaMHlCmDA">[Video]</a><a href="https://github.com/hocherie/cbf_quadrotor">[Code]</a>
-    </div>
-</div>
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/ecbf-timelapse-trimmed.png"/>
+        </div>
+        <div id="content">
+            <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">
+            <b>“Provably Safe” in the Wild: Testing Control Barrier Functions on a Vision-Based Quadrotor in an Outdoor Environment </b><br></a>
+            <b>Cherie Ho*</b>, Katherine Shih*, Jaskaran Singh Grover, Changliu Liu, Sebastian Scherer<br>  
+            <br>
+            <i>RSS Workshop on Robust Autonomy</i>, 2020<br> 
+            <a href="https://openreview.net/pdf?id=CrBJIgBr2BK">[PDF]</a><a href="https://youtu.be/1ohaMHlCmDA">[Video]</a><a href="https://github.com/hocherie/cbf_quadrotor">[Code]</a>
+        </div>
     </div>
 </div>
 
