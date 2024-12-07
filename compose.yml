@@ -1,0 +1,10 @@
+services:
+  jekyll:
+    build: .
+    # command: tail -f /dev/null
+    # command: bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling --livereload --trace
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+    container_name: jekyll_container
