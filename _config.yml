@@ -29,8 +29,8 @@ navbar-links:
     - Multidrone Reconstruction [2020-]: "https://theairlab.org/multidrone/"
     - Autonomous Drone Filming [2018-19]: "https://theairlab.org/drone-filming/"
     - Autonomous Shark Tracking [2015-17]: "sharktracking"
-  # Blogs:
-  #   - Upgrading MacOS Terminal: "2018-11-24-upgrade-terminal"
+  Blogs:
+    - Upgrading MacOS Terminal: "2018-11-24-upgrade-terminal"
   Resources and Outreach: "resources"
 
 # Image to show in the navigation bar - image must be a square (width = height)
