@@ -5,20 +5,60 @@ subtitle: 'Robotics Ph.D. Student, CMU'
 published: true
 css: /css/cherie.css
 ---
+<style>
+    img.responsive-img {
+    width: 600px;
+    max-width: 100%; /* Ensures it doesn’t exceed its container */
+    display: block; /* Centers the image in its container */
+    margin: 0 auto; /* Centers the image */
+    }
+
+    @media (max-width: 768px) { /* Adjust breakpoint for mobile devices */
+        img.responsive-img {
+            width: 90%;
+    }
+    }
+    .announcement {
+    background-color: #f8d7da; /* Pale red */
+    color: #721c24; /* Darker red text for contrast */
+    padding: 15px; /* Adds some space around the text */
+    border-radius: 5px; /* Optional: rounds the corners */
+    text-align: center; /* Centers the text */
+}
+</style>
 
 Hi, I’m Cherie! I’m a PhD Student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I am part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
-I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on shark-tracking underwater robots. Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
 
-My research interest is in the intersection of **field robotics, computer vision and machine learning** towards the goal of bringing robots to uncertain safety-critical environments. Specifically, I develop robot learning algorithms to enable reliable autonomy in dynamic real-world applications, such as [motion capture in forests](https://youtu.be/jxt91vx0cns), [high-speed offroad driving](https://www.cmu.edu/news/stories/archives/2022/september/off-road-autonomy.html), and now autonomous wheelchairs.
+<p align="center">
+    <img src="img/website_gif_202412.gif"/>
+</p>
+
+My research interest is in the intersection of **field robotics, computer vision and machine learning** to develop **robots that can continuously learn** in new scenarios by reasoning about **uncertainties and consequences**. Developing such robots can break the need of immense human engineering when encountering new situations and environments and pave the way for robots capable of operating effectively and at scale in diverse scenarios. 
+<!-- Towards this, I develop **generalizable**, **adaptive** and **uncertainty-aware** robot algorithms to enable reliable autonomy in dynamic real-world applications, such as [motion capture in forests](https://youtu.be/jxt91vx0cns), [high-speed offroad driving](https://theairlab.org/offroad/), and now autonomous wheelchairs. For more information, please see my [research background & vision](research). -->
+
+<div class="announcement">
+    <b>I am on the academic job market (tenure-track faculty / postdoc) this year!</b><br>
+    Please <a href="mailto:cherieh@andrew.cmu.edu">reach out &#9993;</a> if you think our <a href="research">research interests</a>
+     align! 
+    <br><br>
+     I am interested in developing <b>generalizable</b>, <b>adaptive</b> and <b>uncertainty-aware</b> robot algorithms for dynamic real-world applications. I have worked on applications such as <a href="https://youtu.be/jxt91vx0cns">motion capture in forests</a>, <a href="https://theairlab.org/offroad/">high-speed offroad driving</a>, and now autonomous wheelchairs. See my full list of publications <a href="publications">here</a>.
+</div>
+
+
+
+
+
+
+
 <p align="center">
   <a href="media/cherieho_cv_2024_09.pdf">CV</a> /
-  <a href="https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en">Google Scholar</a> / 
+  <a href="https://x.com/hocherie1">Twitter</a> / 
+  <a href="https://www.linkedin.com/in/cherieho/">LinkedIn</a> 
 </p>
 <!-- [CV](cherieho_cv_2020_06.pdf) / [Google Scholar](https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en) -->
 
-<p align="center">
-    <img src="img/cherie_collage_0819.gif"/>
-</p>
+During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
 
 ### Recent News 
 * **Sep 2024** Paper on [*empowering map prediction with large-scale public data*](https://mapitanywhere.github.io/) accepted to NeurIPS 2024! Looking forward to Vancouver! 
@@ -94,7 +134,7 @@ See the full list of my publication [here](publications).
             <i>In Submission</i>, 2024<br>  
             <a href="https://theairlab.org/SALON">[Website]</a>
             <a href="https://theairlab.org/SALON/assets/Adaptive_Costmaps_ICRA_2025__arxiv_.pdf">[PDF]</a>
-            <a href="https://github.com/castacks/salon_ws">[PDF]</a>
+            <a href="https://github.com/castacks/salon_ws">[Code]</a>
         </div>
     </div>
 

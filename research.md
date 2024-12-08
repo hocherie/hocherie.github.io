@@ -4,9 +4,24 @@ title: Research
 published: true
 css: /css/cherie.css
 ---
+<style>
+    img.responsive-img {
+    width: 800px;
+    max-width: 100%; /* Ensures it doesn’t exceed its container */
+    display: block; /* Centers the image in its container */
+    margin: 0 auto; /* Centers the image */
+    }
+
+    @media (max-width: 768px) { /* Adjust breakpoint for mobile devices */
+        img.responsive-img {
+            width: 90%;
+    }
+}
+
+</style>
 ## Research Vision
 <p align="center">
-    <img src="/img/vision_pull.jpg" width="700px">
+    <img src="/img/vision_pull.jpg" class="responsive-img" >
 </p>
 I aim to develop **robots that can continuously learn in new scenarios** to break the need of immense human engineering when encountering new situations and environments. This will pave the way for robots capable of operating effectively and at scale in diverse scenarios. However, robot deployments are not only challenging and costly but also high-stakes, where minor failures can have serious consequences. My vision is to create robots capable of autonomously curating high-quality data safely and at scale while learning efficiently from this data. To achieve this, I propose that robots need to reason about **uncertainty** and **consequences** within a **modular** architecture, allowing them to learn in a risk-adjusted manner when facing new situations. It will continuously learn by identifying knowledge gaps and actively gathering information.
 
@@ -14,7 +29,7 @@ See the full list of my publication [here](publications).
 
 ### PhD Thesis: Towards Flexible Robot Perception
 <p align="center">
-    <img src="/img/research_depth.jpg" width="700px">
+    <img src="/img/research_depth.jpg" class="responsive-img" >
 </p>
 Toward this goal, my PhD research has laid a foundation by developing perception modules designed for generalizability, adaptability, and enabling proactive exploration in areas of uncertainty.
 <br>
@@ -28,7 +43,7 @@ Toward this goal, my PhD research has laid a foundation by developing perception
 
 ### Robotics Breadth
 <p align="center">
-    <img src="/img/research_breadth.jpg" width="700px">
+    <img src="/img/research_breadth.jpg" class="responsive-img" >
 </p>
 Robotics systems require development across the full stack. Towards this, my research covers: **Perception** [[NeurIPS'24](https://mapitanywhere.github.io/),
     [IROS'24](https://arxiv.org/abs/2306.15226),
@@ -44,7 +59,7 @@ Robotics systems require development across the full stack. Towards this, my res
 
 ### Research Applications
 <p align="center">
-    <img src="/img/research_applications.jpg" width="700px">
+    <img src="/img/research_applications.jpg" class="responsive-img" >
 </p>
 My research has also spanned multiple applications. Some of the applications are: 
 <br>
@@ -66,7 +81,7 @@ My research has also spanned multiple applications. Some of the applications are
 
 ### Research Platforms
 <p align="center">
-    <img src="/img/research_platforms.jpg" width="700px">
+    <img src="/img/research_platforms.jpg" class="responsive-img" >
 </p>
 A key aspect of my work is getting out there to collect data and working with robots. Towards this, here are some robot platforms I have worked with:
 <br>
