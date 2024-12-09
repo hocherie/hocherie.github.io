@@ -41,8 +41,7 @@ My research interest is in the intersection of **field robotics, computer vision
     Please <a href="mailto:cherieh@andrew.cmu.edu">reach out &#9993;</a> if you think our <a href="research">research interests</a>
      align! 
     <br><br>
-     I am interested in developing <b>generalizable</b>, <b>adaptive</b> and <b>uncertainty-aware</b> robot algorithms for dynamic real-world applications. I have worked on applications such as <a href="https://youtu.be/jxt91vx0cns">motion capture in forests</a>, <a href="https://theairlab.org/offroad/">high-speed offroad driving</a>, and now autonomous wheelchairs.
-     <br>See my full list of publications <a href="publications">here</a>.
+     I am interested in developing <b>generalizable</b>, <b>adaptive</b> and <b>uncertainty-aware</b> robot algorithms for dynamic real-world applications. I have worked on applications such as <a href="https://youtu.be/jxt91vx0cns">motion capture in forests</a>, <a href="https://theairlab.org/offroad/">high-speed offroad driving</a>, and now autonomous wheelchairs. See my full list of publications <a href="publications">here</a>.
 </div>
 
 
