@@ -41,7 +41,8 @@ My research interest is in the intersection of **field robotics, computer vision
     Please <a href="mailto:cherieh@andrew.cmu.edu">reach out &#9993;</a> if you think our <a href="research">research interests</a>
      align! 
     <br><br>
-     I am interested in developing <b>generalizable</b>, <b>adaptive</b> and <b>uncertainty-aware</b> robot algorithms for dynamic real-world applications. I have worked on applications such as <a href="https://youtu.be/jxt91vx0cns">motion capture in forests</a>, <a href="https://theairlab.org/offroad/">high-speed offroad driving</a>, and now autonomous wheelchairs. See my full list of publications <a href="publications">here</a>.
+     I am interested in developing <b>generalizable</b>, <b>adaptive</b> and <b>uncertainty-aware</b> robot algorithms for dynamic real-world applications. I have worked on applications such as <a href="https://youtu.be/jxt91vx0cns">motion capture in forests</a>, <a href="https://theairlab.org/offroad/">high-speed offroad driving</a>, and now autonomous wheelchairs.
+     <br>See my full list of publications <a href="publications">here</a>.
 </div>
 
 
@@ -51,7 +52,7 @@ My research interest is in the intersection of **field robotics, computer vision
 
 
 <p align="center">
-  <a href="media/cherieho_cv_2024_09.pdf">CV</a> /
+  <a href="media/Ho_Cherie_CV_Dec2024.pdf">CV</a> /
   <a href="https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en">Google Scholar</a> / 
   <a href="https://x.com/hocherie1">Twitter</a> / 
   <a href="https://www.linkedin.com/in/cherieho/">LinkedIn</a> 
@@ -61,6 +62,7 @@ My research interest is in the intersection of **field robotics, computer vision
 During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
 
 ### Recent News 
+* **Oct 2024** Thrilled to be at [OECD](https://www.oecd.org/) in Paris to discuss Robotics + Public Policy at the [AI and the Future of Skills](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html) AI expert meeting. Stay tuned for more exciting work in Robotics + Public Policy...
 * **Sep 2024** Paper on [*empowering map prediction with large-scale public data*](https://mapitanywhere.github.io/) accepted to NeurIPS 2024! Looking forward to Vancouver! 
 * **Jul 2024** Paper on [*online learning for offroad driving*](https://arxiv.org/abs/2306.15226) accepted to IROS 2024! See you in Abu Dhabi!
 * **Mar 2024** Our workshop on autonomous offroad driving is accepted to ICRA 2024!

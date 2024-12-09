@@ -83,7 +83,7 @@ My research has also spanned multiple applications. Some of the applications are
 <p align="center">
     <img src="/img/research_platforms.jpg" class="responsive-img" >
 </p>
-A key aspect of my work is getting out there to collect data and working with robots. Towards this, here are some robot platforms I have worked with:
+A key aspect of my work is getting out there with our robots. Towards this, here are some robot platforms I have worked with:
 <br>
 * Full-Scale Offroad ATVs (Robot Names: Vicky, CMU4, CMU7): [[NeurIPS'24](https://mapitanywhere.github.io/),
     [IROS'24](https://arxiv.org/abs/2306.15226),[ICRA'25b\*](https://theairlab.org/SALON),
@@ -98,5 +98,5 @@ A key aspect of my work is getting out there to collect data and working with ro
 <br>
 * Urban Wheelchair (Robot Name: wheelie):
 [
-    [ICRA'25a\*](https://arxiv.org/abs/2409.15590)
+    [ICRA'25b\*](https://theairlab.org/SALON)
 ]
