@@ -37,7 +37,7 @@ My research interest is in the intersection of **field robotics, computer vision
 <!-- Towards this, I develop **generalizable**, **adaptive** and **uncertainty-aware** robot algorithms to enable reliable autonomy in dynamic real-world applications, such as [motion capture in forests](https://youtu.be/jxt91vx0cns), [high-speed offroad driving](https://theairlab.org/offroad/), and now autonomous wheelchairs. For more information, please see my [research background & vision](research). -->
 
 <div class="announcement">
-    <b>I am on the academic job market (tenure-track faculty / postdoc) this year!</b><br>
+    <b>I am on the job market (tenure-track faculty / postdoc / research scientist) this year!</b><br>
     Please <a href="mailto:cherieh@andrew.cmu.edu">reach out &#9993;</a> if you think our <a href="research">research interests</a>
      align! 
     <br><br>
