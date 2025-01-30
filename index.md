@@ -61,6 +61,7 @@ My research interest is in the intersection of **field robotics, computer vision
 During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
 
 ### Recent News 
+* **Jan 2025** 2 papers accepted to ICRA 2025! One on [predicting world models for exploration](https://mapex-explorer.github.io/), another on [autonomous exploration and adaptation for offroad driving](https://theairlab.org/SALON/).
 * **Oct 2024** Thrilled to be at [OECD](https://www.oecd.org/) in Paris for the [AI and the Future of Skills](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html) AI expert meeting. Stay tuned for more exciting work in Robotics + Public Policy...
 * **Sep 2024** Paper on [*empowering map prediction with large-scale public data*](https://mapitanywhere.github.io/) accepted to NeurIPS 2024! Looking forward to Vancouver! 
 * **Jul 2024** Paper on [*online learning for offroad driving*](https://arxiv.org/abs/2306.15226) accepted to IROS 2024! See you in Abu Dhabi!
@@ -118,7 +119,7 @@ See the full list of my publication [here](publications).
             <b>Cherie Ho*</b>, Seungchan Kim*, Brady Moon, Aditya Parandekar, Narek Harutyunyan, Chen Wang, Katia Sycara, Graeme Best, Sebastian Scherer
             <br>
             <br>
-            <i>In Submission</i>, 2024
+            <i>ICRA</i>, 2025
             <br> <a href="https://arxiv.org/abs/2409.15590">[PDF]</a>
         </div>
     </div>
@@ -132,7 +133,7 @@ See the full list of my publication [here](publications).
             <a href="https://theairlab.org/SALON/"><b>SALON: Self-supervised Adaptive Learning for Off-road Navigation</b></a><br>
             Matthew Sivaprakasam, Samuel Triest, <b>Cherie Ho</b>, Shubhra Aich, Jeric Lew, Isaiah Adu, Wenshan Wang, Sebastian Scherer
             <br>
-            <i>In Submission</i>, 2024<br>  
+            <i>ICRA</i>, 2025<br>  
             <a href="https://theairlab.org/SALON">[Website]</a>
             <a href="https://theairlab.org/SALON/assets/Adaptive_Costmaps_ICRA_2025__arxiv_.pdf">[PDF]</a>
             <a href="https://github.com/castacks/salon_ws">[Code]</a>
