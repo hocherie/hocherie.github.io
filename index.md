@@ -36,6 +36,7 @@ Hi, I’m Cherie! I’m a PhD Student in the [Robotics Institute](https://www.ri
 My research interest is in the intersection of **field robotics, computer vision and machine learning** to develop **robots that can continuously learn** in new scenarios by reasoning about **uncertainties and consequences**. Developing such robots can break the need of immense human engineering when encountering new situations and environments and pave the way for robots capable of operating effectively and at scale in diverse scenarios. 
 <!-- Towards this, I develop **generalizable**, **adaptive** and **uncertainty-aware** robot algorithms to enable reliable autonomy in dynamic real-world applications, such as [motion capture in forests](https://youtu.be/jxt91vx0cns), [high-speed offroad driving](https://theairlab.org/offroad/), and now autonomous wheelchairs. For more information, please see my [research background & vision](research). -->
 
+<!--
 <div class="announcement">
     <b>I am on the job market (tenure-track faculty / postdoc / research scientist) this year!</b><br>
     Please <a href="mailto:cherieh@andrew.cmu.edu">reach out &#9993;</a> if you think our <a href="research">research interests</a>
@@ -43,7 +44,7 @@ My research interest is in the intersection of **field robotics, computer vision
     <br><br>
      I am interested in developing <b>generalizable</b>, <b>adaptive</b> and <b>uncertainty-aware</b> robot algorithms for dynamic real-world applications. I have worked on applications such as <a href="https://youtu.be/jxt91vx0cns">motion capture in forests</a>, <a href="https://theairlab.org/offroad/">high-speed offroad driving</a>, and now autonomous wheelchairs. See my full list of publications <a href="publications">here</a>.
 </div>
-
+-->
 
 
 
