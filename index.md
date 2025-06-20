@@ -27,24 +27,14 @@ css: /css/cherie.css
 }
 </style>
 
-Hi, I’m Cherie! I’m a PhD Student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I am part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
+Hi, I’m Cherie! I recently completed my PhD in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, where I was advised by [Prof. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I was part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
 
+I will be joining Stanford as a postdoctoral fellow advised by [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) to work on mobile manipulators and VLAs!
 <p align="center">
     <img src="img/website_gif_202412.gif"/>
 </p>
 
 My research interest is in the intersection of **field robotics, computer vision and machine learning** to develop **robots that can continuously learn** in new scenarios by reasoning about **uncertainties and consequences**. Developing such robots can break the need of immense human engineering when encountering new situations and environments and pave the way for robots capable of operating effectively and at scale in diverse scenarios. 
-<!-- Towards this, I develop **generalizable**, **adaptive** and **uncertainty-aware** robot algorithms to enable reliable autonomy in dynamic real-world applications, such as [motion capture in forests](https://youtu.be/jxt91vx0cns), [high-speed offroad driving](https://theairlab.org/offroad/), and now autonomous wheelchairs. For more information, please see my [research background & vision](research). -->
-
-<!--
-<div class="announcement">
-    <b>I am on the job market (tenure-track faculty / postdoc / research scientist) this year!</b><br>
-    Please <a href="mailto:cherieh@andrew.cmu.edu">reach out &#9993;</a> if you think our <a href="research">research interests</a>
-     align! 
-    <br><br>
-     I am interested in developing <b>generalizable</b>, <b>adaptive</b> and <b>uncertainty-aware</b> robot algorithms for dynamic real-world applications. I have worked on applications such as <a href="https://youtu.be/jxt91vx0cns">motion capture in forests</a>, <a href="https://theairlab.org/offroad/">high-speed offroad driving</a>, and now autonomous wheelchairs. See my full list of publications <a href="publications">here</a>.
-</div>
--->
 
 
 
@@ -62,6 +52,8 @@ My research interest is in the intersection of **field robotics, computer vision
 During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
 
 ### Recent News 
+* **April 2025** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/) See you in LA!
+* **April 2025** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/) See you in LA!
 * **Jan 2025** 2 papers accepted to ICRA 2025! One on [predicting world models for exploration](https://mapex-explorer.github.io/), another on [autonomous exploration and adaptation for offroad driving](https://theairlab.org/SALON/).
 * **Oct 2024** Thrilled to be at [OECD](https://www.oecd.org/) in Paris for the [AI and the Future of Skills](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html) AI expert meeting. Stay tuned for more exciting work in Robotics + Public Policy...
 * **Sep 2024** Paper on [*empowering map prediction with large-scale public data*](https://mapitanywhere.github.io/) accepted to NeurIPS 2024! Looking forward to Vancouver! 
