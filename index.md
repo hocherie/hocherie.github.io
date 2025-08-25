@@ -29,7 +29,7 @@ css: /css/cherie.css
 
 Hi, I’m Cherie! I recently completed my PhD in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, where I was advised by [Prof. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I was part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
 
-I will be joining Stanford as a postdoctoral fellow advised by [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) to work on mobile manipulators and VLAs!
+I will be joining Stanford as a postdoctoral fellow advised by [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) to work on mobile manipulators!
 <p align="center">
     <img src="img/website_gif_202412.gif"/>
 </p>
@@ -52,7 +52,6 @@ My research interest is in the intersection of **field robotics, computer vision
 During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
 
 ### Recent News 
-* **April 2025** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/) See you in LA!
 * **April 2025** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/) See you in LA!
 * **Jan 2025** 2 papers accepted to ICRA 2025! One on [predicting world models for exploration](https://mapex-explorer.github.io/), another on [autonomous exploration and adaptation for offroad driving](https://theairlab.org/SALON/).
 * **Oct 2024** Thrilled to be at [OECD](https://www.oecd.org/) in Paris for the [AI and the Future of Skills](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html) AI expert meeting. Stay tuned for more exciting work in Robotics + Public Policy...
