@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cherie Ho
-subtitle: 'Robotics Ph.D. Student, CMU'
+subtitle: 'Robotics Postdoc, Stanford'
 published: true
 css: /css/cherie.css
 ---
@@ -27,17 +27,16 @@ css: /css/cherie.css
 }
 </style>
 
-Hi, I’m Cherie! I recently completed my PhD in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, where I was advised by [Prof. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). I was part of the [Air Lab](http://theairlab.org/) and the [Field Robotics Center](https://frc.ri.cmu.edu/). 
+Hi, I’m Cherie! I am a Postdoctoral researcher at Stanford University working with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I recently completed my PhD in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, where I was advised by [Prof. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). 
 
-I will be joining Stanford as a postdoctoral fellow advised by [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) to work on mobile manipulators!
+
 <p align="center">
     <img src="img/website_gif_202412.gif"/>
 </p>
 
-My research interest is in the intersection of **field robotics, computer vision and machine learning** to develop **robots that can continuously learn** in new scenarios by reasoning about **uncertainties and consequences**. Developing such robots can break the need of immense human engineering when encountering new situations and environments and pave the way for robots capable of operating effectively and at scale in diverse scenarios. 
+My research interest is in the intersection of **field robotics, computer vision and machine learning** to develop **robots that can continuously learn** in new scenarios by reasoning about **uncertainties and consequences**. Developing such robots can break the need of immense human engineering when encountering new situations and environments and pave the way for robots capable of operating effectively and at scale in diverse scenarios. I am most recently working on mobile manipulators. 
 
-
-
+Email: cherieho at stanford dot edu
 
 
 
