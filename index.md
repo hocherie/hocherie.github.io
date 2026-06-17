@@ -49,7 +49,7 @@ Hi, I’m Cherie! I am a postdoc at Stanford University working with [Prof. Jean
   </div>
 </div>
 
-My research goal is to build **flexible and self-improving robots** that operate reliably in **messy, real-world environments**. I focus on how robots can build memory that is flexible for long-horizon tasks, steered by different types of goals, reason about uncertainty and consequences, and continually adapt through their own experience. I have had the joy of working across diverse robotic platforms, including multi-drone systems, high-speed offroad driving, urban wheelchairs, and now mobile manipulators in messy settings.
+My research goal is to build **flexible and self-improving robots** that operate reliably in **messy, real-world environments**. I focus on how robots can build memory that is flexible for long-horizon tasks, steered by different types of goals, reason about uncertainty and consequences, and continually self-improve through their own experience. I have had the joy of working across diverse robotic platforms, including multi-drone systems, high-speed offroad driving, urban wheelchairs, and now mobile manipulators in messy settings.
 
 Email: cherieho at stanford dot edu
 
@@ -264,6 +264,6 @@ See the full list of my publication [here](publications).
 * **2018** HMC INQ Inaugural Class (Harvey Mudd Startup Incubator)
 * **2017** Harvey Mudd College Johnson Excellence in Engineering Award
 * **2017** Harvey Mudd College Engineering Departmental Honors
-* **2016** University of Southern California Wrigley Institute Graduate Summer Fellowship (as an undergraduate)
+<!-- * **2016** University of Southern California Wrigley Institute Graduate Summer Fellowship (as an undergraduate) -->
 * **2014 - 2017** Jude and Eileen Laspa Fellowship in Autonomous Systems
-* **2015** First Place, MuddHacks (Gesture-controlled helicopter)
+<!-- * **2015** First Place, MuddHacks (Gesture-controlled helicopter) -->
