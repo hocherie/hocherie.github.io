@@ -49,14 +49,14 @@ Hi, I’m Cherie! I am a postdoc at Stanford University working with [Prof. Jean
   </div>
 </div>
 
-My research goal is to build **flexible and self-improving robots** that operate reliably in **messy, real-world environments**. I focus on how robots can build memory that is flexible for long-horizon tasks, steered by different types of goals, reason about uncertainty and consequences, and continually self-improve through their own experience. I have had the joy of working across diverse robotic platforms, including multi-drone systems, high-speed offroad driving, urban wheelchairs, and now mobile manipulators in messy settings.
+I build **flexible and self-improving robots** that operate reliably in **messy, real-world environments**. My research focuses on how robots can build flexible memory for long-horizon tasks, be steered by different types of goals, reason about uncertainty and consequences, and continually self-improve through their own experience. I enjoy working across diverse robotic platforms, including multi-drone systems, high-speed offroad driving, urban wheelchairs, and now mobile manipulators in unstructured indoor and outdoor environments.
 
 Email: cherieho at stanford dot edu
 
 
 
 <p align="center">
-  <a href="media/Ho_Cherie_CV_Dec2024.pdf">CV</a> /
+  <a href="media/Ho_Cherie_CV_Jun2026.pdf">CV</a> /
   <a href="https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en">Google Scholar</a> / 
   <a href="https://x.com/hocherie1">Twitter</a> / 
   <a href="https://www.linkedin.com/in/cherieho/">LinkedIn</a> 
@@ -66,6 +66,8 @@ Email: cherieho at stanford dot edu
 <!-- During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan. -->
 
 ### Recent News 
+* **06/26** Robot evaluation is hard! We wrote a [blog on practical frameworks for robot evaluation](https://medium.com/@rssroboeval/how-should-we-evaluate-robots-insights-from-rss-2025-workshop-a221fd54c0ff) based on our RSS workshop.
+* **03/26** Gave a guest lecture for JHU's Introduction to Robot Learning course!
 * **07/25** Started my postdoc at Stanford with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) working on mobile manipulators!
 * **07/25** Gratefully awarded the [Croucher Fellowship](https://croucher.org.hk/en/fellows-and-scholars/cherie-ho) for two years of postdoc funding to work on "Flexible and Self-Improving Robots"!
 * **04/25** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/).
@@ -96,6 +98,9 @@ See the full list of my publication [here](publications).
         <div id="content">
             <b>MessyMem: Learning-from-Doing Memory for Mobile Manipulation</b><br>
             Anuva Banwasi, William Muckelroy III, Priya Sundaresan, Linfeng Zhao, Jeannette Bohg, <b>Cherie Ho</b>
+            <br>
+            <br>
+            <i>Coming soon</i>
         </div>
     </div>
 
@@ -106,6 +111,9 @@ See the full list of my publication [here](publications).
         <div id="content">
             <b>MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments</b><br>
             Kenneth Llontop, <b>Cherie Ho</b>, Dylan Zhou, Anuva Banwasi, Carlota Pares-Morlans, Priya Sundaresan, Jeannette Bohg
+            <br>
+            <br>
+            <i>Coming soon</i>
         </div>
     </div>
 
