@@ -4,6 +4,137 @@ title: Publications
 published: true
 css: /css/cherie.css
 ---
+<div class="year-section" id="year-2026">
+    <div class="year-heading">2026</div>
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/messymem_thumbnail.gif"/>
+        </div>
+        <div id="content">
+            <b>MessyMem: Learning-from-Doing Memory for Mobile Manipulation</b><br>
+            Anuva Banwasi, William Muckelroy III, Priya Sundaresan, Linfeng Zhao, Jeannette Bohg, <b>Cherie Ho</b>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/messynav_thumbnail.gif"/>
+        </div>
+        <div id="content">
+            <b>MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments</b><br>
+            Kenneth Llontop, <b>Cherie Ho</b>, Dylan Zhou, Anuva Banwasi, Carlota Pares-Morlans, Priya Sundaresan, Jeannette Bohg
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/robot_flywheel_thumbnail.gif"/>
+        </div>
+        <div id="content">
+            <a href="https://scanford-robot.github.io/"><b>Robot-Powered Data Flywheels: Deploying Robots in the Wild for Continual Data Collection and Foundation Model Adaptation</b></a><br>
+            Jennifer Grannen, Michelle Pan, Kenneth Llontop, <b>Cherie Ho</b>, Mark Zolotas, Jeannette Bohg, Dorsa Sadigh
+            <br>
+            <br>
+            <i>arXiv preprint</i>, 2026
+            <br>
+            <a href="https://scanford-robot.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2511.19647">[PDF]</a>
+        </div>
+    </div>
+</div>
+
+<div class="year-section" id="year-2025">
+    <div class="year-heading">2025</div>
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/mapexrl_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://arxiv.org/abs/2503.01548"><b>MapExRL: Human-Inspired Indoor Exploration with Predicted Environment Context and Reinforcement Learning</b></a><br>
+            Narek Harutyunyan, Brady Moon, Seungchan Kim, <b>Cherie Ho</b>, Adam Hung, Sebastian Scherer
+            <br>
+            <br>
+            <i>IEEE International Conference on Advanced Robotics (ICAR)</i>, 2025
+            <br>
+            <a href="https://mapexrl.github.io">[Website]</a> <a href="https://arxiv.org/abs/2503.01548">[PDF]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/pipeplanner_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://arxiv.org/abs/2503.07504"><b>PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration</b></a><br>
+            Seungjae Baek, Brady Moon, Seungchan Kim, Muqing Cao, <b>Cherie Ho</b>, Sebastian Scherer, Jeong hwan Jeon
+            <br>
+            <br>
+            <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025
+            <br>
+            <a href="https://pipe-planner.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2503.07504">[PDF]</a> <a href="https://github.com/castacks/pipe-planner">[Code]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/rayfronts_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://rayfronts.github.io/"><b>RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration</b></a><br>
+            Omar Alama, Avigyan Bhattacharya, Haoyang He, Seungchan Kim, Yuheng Qiu, Wenshan Wang, <b>Cherie Ho</b>, Nikhil Keetha, Sebastian Scherer
+            <br>
+            <br>
+            <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025
+            <br>
+            <a href="https://rayfronts.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2504.06994">[PDF]</a> <a href="https://github.com/RayFronts/RayFronts">[Code]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/mapex_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://mapex-explorer.github.io/"><b>MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions</b></a><br>
+            <b>Cherie Ho*</b>, Seungchan Kim*, Brady Moon, Aditya Parandekar, Narek Harutyunyan, Chen Wang, Katia Sycara, Graeme Best, Sebastian Scherer
+            <br>
+            <br>
+            <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2025
+            <br>
+            <a href="https://mapex-explorer.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2409.15590">[PDF]</a> <a href="https://github.com/castacks/MapEx">[Code]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/salon-gif.gif"/>
+        </div>
+        <div id="content">
+            <a href="https://theairlab.org/SALON/"><b>SALON: Self-supervised Adaptive Learning for Off-road Navigation</b></a><br>
+            Matthew Sivaprakasam, Samuel Triest, <b>Cherie Ho</b>, Shubhra Aich, Jeric Lew, Isaiah Adu, Wenshan Wang, Sebastian Scherer
+            <br>
+            <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2025<br>  
+            <a href="https://theairlab.org/SALON">[Website]</a>
+            <a href="https://theairlab.org/SALON/assets/Adaptive_Costmaps_ICRA_2025__arxiv_.pdf">[PDF]</a>
+            <a href="https://github.com/castacks/salon_ws">[Code]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="/img/vlm_spatial_reasoning_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://arxiv.org/abs/2511.20644"><b>VLM²: Vision-Language Memory for Spatial Reasoning</b></a><br>
+            Zuntao Liu, Yi Du, Taimeng Fu, Shaoshu Su, <b>Cherie Ho</b>, Chen Wang
+            <br>
+            <br>
+            <i>arXiv preprint</i>, 2025
+            <br>
+            <a href="https://sairlab.org/vlm2/">[Website]</a> <a href="https://arxiv.org/abs/2511.20644">[PDF]</a>
+        </div>
+    </div>
+</div>
+
 <div class="year-section" id="year-2024">
     <div class="year-heading">2024</div>
     <div class="container">
@@ -25,20 +156,6 @@ css: /css/cherie.css
 
     <div class="container">
         <div id="thumbnail-container">
-            <img id="thumbnail" src="/img/mapex_thumbnail.png"/>
-        </div>
-        <div id="content">
-            <a href="https://arxiv.org/abs/2409.15590"><b>MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions</b></a><br>
-            <b>Cherie Ho*</b>, Seungchan Kim*, Brady Moon, Aditya Parandekar, Narek Harutyunyan, Chen Wang, Katia Sycara, Graeme Best, Sebastian Scherer
-            <br>
-            <br>
-            <i>In Submission</i>, 2024
-            <br> <a href="https://arxiv.org/abs/2409.15590">[PDF]</a>
-        </div>
-    </div>
-
-    <div class="container">
-        <div id="thumbnail-container">
             <img id="thumbnail" src="/img/alter_gif.gif"/>
         </div>
         <div id="content">
@@ -48,21 +165,6 @@ css: /css/cherie.css
             <br>
             <i>International Conference on Intelligent Robots and Systems (IROS)</i>, 2024<br>  
             <a href="https://arxiv.org/abs/2306.15226">[PDF]</a>
-        </div>
-    </div>
-
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="/img/salon-gif.gif"/>
-        </div>
-        <div id="content">
-            <a href="https://theairlab.org/SALON/"><b>SALON: Self-supervised Adaptive Learning for Off-road Navigation</b></a><br>
-            Matthew Sivaprakasam, Samuel Triest, <b>Cherie Ho</b>, Shubhra Aich, Jeric Lew, Isaiah Adu, Wenshan Wang, Sebastian Scherer
-            <br>
-            <i>In Submission</i>, 2024<br>  
-            <a href="https://theairlab.org/SALON">[Website]</a>
-            <a href="https://theairlab.org/SALON/assets/Adaptive_Costmaps_ICRA_2025__arxiv_.pdf">[PDF]</a>
-            <a href="https://github.com/castacks/salon_ws">[PDF]</a>
         </div>
     </div>
 

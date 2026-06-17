@@ -27,14 +27,29 @@ css: /css/cherie.css
 }
 </style>
 
-Hi, I’m Cherie! I am a Postdoctoral researcher at Stanford University working with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I recently completed my PhD in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, where I was advised by [Prof. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). 
+Hi, I’m Cherie! I am a postdoc at Stanford University working with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I am grateful to be supported by the [Croucher Fellowship for Postdoctoral Research](https://croucher.org.hk/en/fellows-and-scholars/cherie-ho). I completed my PhD in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, where I was advised by [Prof. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/). 
 
 
-<p align="center">
-    <img src="img/website_gif_202412.gif"/>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 1.5em 0;">
+  <div style="text-align: center;">
+    <img src="img/multidrone_intro.gif" style="width: 220px; height: 132px; object-fit: cover; border-radius: 12px;"/>
+    <div style="font-size: 0.85em; margin-top: 6px;">Multi-Drone Motion Capture</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/offroad_intro.gif" style="width: 220px; height: 132px; object-fit: cover; border-radius: 12px;"/>
+    <div style="font-size: 0.85em; margin-top: 6px;">Offroad Driving</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/wheelchair_intro.gif" style="width: 220px; height: 132px; object-fit: cover; border-radius: 12px;"/>
+    <div style="font-size: 0.85em; margin-top: 6px;">Urban Wheelchair</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="img/manipulator_intro.gif" style="width: 220px; height: 132px; object-fit: cover; border-radius: 12px;"/>
+    <div style="font-size: 0.85em; margin-top: 6px;">Mobile Manipulation</div>
+  </div>
+</div>
 
-My research interest is in the intersection of **field robotics, computer vision and machine learning** to develop **robots that can continuously learn** in new scenarios by reasoning about **uncertainties and consequences**. Developing such robots can break the need of immense human engineering when encountering new situations and environments and pave the way for robots capable of operating effectively and at scale in diverse scenarios. I am most recently working on mobile manipulators. 
+My research goal is to build **flexible and self-improving robots** that operate reliably in **messy, real-world environments**. I focus on how robots can build memory that is flexible for long-horizon tasks, steered by different types of goals, reason about uncertainty and consequences, and continually adapt through their own experience. I have had the joy of working across diverse robotic platforms, including multi-drone systems, high-speed offroad driving, urban wheelchairs, and now mobile manipulators in messy settings.
 
 Email: cherieho at stanford dot edu
 
@@ -48,15 +63,17 @@ Email: cherieho at stanford dot edu
 </p>
 <!-- [CV](cherieho_cv_2020_06.pdf) / [Google Scholar](https://scholar.google.com/citations?user=j8lsq7sAAAAJ&hl=en) -->
 
-During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan.
+<!-- During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan. -->
 
 ### Recent News 
-* **April 2025** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/) See you in LA!
-* **Jan 2025** 2 papers accepted to ICRA 2025! One on [predicting world models for exploration](https://mapex-explorer.github.io/), another on [autonomous exploration and adaptation for offroad driving](https://theairlab.org/SALON/).
-* **Oct 2024** Thrilled to be at [OECD](https://www.oecd.org/) in Paris for the [AI and the Future of Skills](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html) AI expert meeting. Stay tuned for more exciting work in Robotics + Public Policy...
-* **Sep 2024** Paper on [*empowering map prediction with large-scale public data*](https://mapitanywhere.github.io/) accepted to NeurIPS 2024! Looking forward to Vancouver! 
-* **Jul 2024** Paper on [*online learning for offroad driving*](https://arxiv.org/abs/2306.15226) accepted to IROS 2024! See you in Abu Dhabi!
-* **Mar 2024** Our workshop on autonomous offroad driving is accepted to ICRA 2024!
+* **07/25** Started my postdoc at Stanford with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) working on mobile manipulators!
+* **07/25** Gratefully awarded the [Croucher Fellowship](https://croucher.org.hk/en/fellows-and-scholars/cherie-ho) for two years of postdoc funding to work on "Flexible and Self-Improving Robots"!
+* **04/25** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/).
+* **01/25** 2 papers accepted to ICRA 2025! One on [predicting world models for exploration](https://mapex-explorer.github.io/), another on [autonomous exploration and adaptation for offroad driving](https://theairlab.org/SALON/).
+* **10/24** Thrilled to be at [OECD](https://www.oecd.org/) in Paris for the [AI and the Future of Skills](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html) AI expert meeting. Excited to capture thoughts on measuring robotics capability in the "Robotic intelligence scale" chapter of the OECD's [AI Capability Indicators whitepaper](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/introducing-the-oecd-ai-capability-indicators_7c0731f0/be745f04-en.pdf)!
+<!-- * **09/24** Paper on [*empowering map prediction with large-scale public data*](https://mapitanywhere.github.io/) accepted to NeurIPS 2024! Looking forward to Vancouver! -->
+<!-- * **07/24** Paper on [*online learning for offroad driving*](https://arxiv.org/abs/2306.15226) accepted to IROS 2024! See you in Abu Dhabi! -->
+<!-- * **03/24** Our workshop on autonomous offroad driving is accepted to ICRA 2024! -->
 <!-- * **May-Aug 2021** Spending this summer at Microsoft working on "Pretraining for Safety" with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/)! -->
 <!-- * **Jul 2021** [Paper](https://arxiv.org/abs/2108.03936) on multi-drone human reconstruction accepted at IROS 2021! -->
 <!-- * **April 2021** Excited to give invited talks at Apple and Lehigh University. Watch the Lehigh talk [here](https://youtu.be/R1a-31YH3H8). -->
@@ -69,6 +86,123 @@ During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/r
 <br>
 ### Selected Publications
 See the full list of my publication [here](publications).
+
+<div class="year-section" id="year-2026">
+    <div class="year-heading">2026</div>
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/messymem_thumbnail.gif"/>
+        </div>
+        <div id="content">
+            <b>MessyMem: Learning-from-Doing Memory for Mobile Manipulation</b><br>
+            Anuva Banwasi, William Muckelroy III, Priya Sundaresan, Linfeng Zhao, Jeannette Bohg, <b>Cherie Ho</b>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/messynav_thumbnail.gif"/>
+        </div>
+        <div id="content">
+            <b>MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments</b><br>
+            Kenneth Llontop, <b>Cherie Ho</b>, Dylan Zhou, Anuva Banwasi, Carlota Pares-Morlans, Priya Sundaresan, Jeannette Bohg
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/robot_flywheel_thumbnail.gif"/>
+        </div>
+        <div id="content">
+            <a href="https://scanford-robot.github.io/"><b>Robot-Powered Data Flywheels: Deploying Robots in the Wild for Continual Data Collection and Foundation Model Adaptation</b></a><br>
+            Jennifer Grannen, Michelle Pan, Kenneth Llontop, <b>Cherie Ho</b>, Mark Zolotas, Jeannette Bohg, Dorsa Sadigh
+            <br>
+            <br>
+            <i>arXiv preprint</i>, 2026
+            <br>
+            <a href="https://scanford-robot.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2511.19647">[PDF]</a>
+        </div>
+    </div>
+</div>
+
+<div class="year-section" id="year-2025">
+    <div class="year-heading">2025</div>
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/mapexrl_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://arxiv.org/abs/2503.01548"><b>MapExRL: Human-Inspired Indoor Exploration with Predicted Environment Context and Reinforcement Learning</b></a><br>
+            Narek Harutyunyan, Brady Moon, Seungchan Kim, <b>Cherie Ho</b>, Adam Hung, Sebastian Scherer
+            <br>
+            <br>
+            <i>IEEE International Conference on Advanced Robotics (ICAR)</i>, 2025
+            <br>
+            <a href="https://mapexrl.github.io">[Website]</a> <a href="https://arxiv.org/abs/2503.01548">[PDF]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/pipeplanner_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://arxiv.org/abs/2503.07504"><b>PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration</b></a><br>
+            Seungjae Baek, Brady Moon, Seungchan Kim, Muqing Cao, <b>Cherie Ho</b>, Sebastian Scherer, Jeong hwan Jeon
+            <br>
+            <br>
+            <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025
+            <br>
+            <a href="https://pipe-planner.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2503.07504">[PDF]</a> <a href="https://github.com/castacks/pipe-planner">[Code]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/rayfronts_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://rayfronts.github.io/"><b>RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration</b></a><br>
+            Omar Alama, Avigyan Bhattacharya, Haoyang He, Seungchan Kim, Yuheng Qiu, Wenshan Wang, <b>Cherie Ho</b>, Nikhil Keetha, Sebastian Scherer
+            <br>
+            <br>
+            <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025
+            <br>
+            <a href="https://rayfronts.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2504.06994">[PDF]</a> <a href="https://github.com/RayFronts/RayFronts">[Code]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/mapex_thumbnail.png"/>
+        </div>
+        <div id="content">
+            <a href="https://mapex-explorer.github.io/"><b>MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions</b></a><br>
+            <b>Cherie Ho*</b>, Seungchan Kim*, Brady Moon, Aditya Parandekar, Narek Harutyunyan, Chen Wang, Katia Sycara, Graeme Best, Sebastian Scherer
+            <br>
+            <br>
+            <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2025
+            <br>
+            <a href="https://mapex-explorer.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2409.15590">[PDF]</a> <a href="https://github.com/castacks/MapEx">[Code]</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="thumbnail-container">
+            <img id="thumbnail" src="img/salon-gif.gif"/>
+        </div>
+        <div id="content">
+            <a href="https://theairlab.org/SALON/"><b>SALON: Self-supervised Adaptive Learning for Off-road Navigation</b></a><br>
+            Matthew Sivaprakasam, Samuel Triest, <b>Cherie Ho</b>, Shubhra Aich, Jeric Lew, Isaiah Adu, Wenshan Wang, Sebastian Scherer
+            <br>
+            <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2025<br>  
+            <a href="https://theairlab.org/SALON">[Website]</a>
+            <a href="https://theairlab.org/SALON/assets/Adaptive_Costmaps_ICRA_2025__arxiv_.pdf">[PDF]</a>
+            <a href="https://github.com/castacks/salon_ws">[Code]</a>
+        </div>
+    </div>
+
+</div>
 
 <div class="year-section" id="year-2024">
     <div class="year-heading">2024</div>
@@ -101,36 +235,6 @@ See the full list of my publication [here](publications).
             <a href="https://arxiv.org/abs/2306.15226">[PDF]</a>
         </div>
     </div>
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/mapex_thumbnail.png"/>
-        </div>
-        <div id="content">
-            <a href="https://arxiv.org/abs/2409.15590"><b>MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions</b></a><br>
-            <b>Cherie Ho*</b>, Seungchan Kim*, Brady Moon, Aditya Parandekar, Narek Harutyunyan, Chen Wang, Katia Sycara, Graeme Best, Sebastian Scherer
-            <br>
-            <br>
-            <i>ICRA</i>, 2025
-            <br> <a href="https://arxiv.org/abs/2409.15590">[PDF]</a>
-        </div>
-    </div>
-
-
-    <div class="container">
-        <div id="thumbnail-container">
-            <img id="thumbnail" src="img/salon-gif.gif"/>
-        </div>
-        <div id="content">
-            <a href="https://theairlab.org/SALON/"><b>SALON: Self-supervised Adaptive Learning for Off-road Navigation</b></a><br>
-            Matthew Sivaprakasam, Samuel Triest, <b>Cherie Ho</b>, Shubhra Aich, Jeric Lew, Isaiah Adu, Wenshan Wang, Sebastian Scherer
-            <br>
-            <i>ICRA</i>, 2025<br>  
-            <a href="https://theairlab.org/SALON">[Website]</a>
-            <a href="https://theairlab.org/SALON/assets/Adaptive_Costmaps_ICRA_2025__arxiv_.pdf">[PDF]</a>
-            <a href="https://github.com/castacks/salon_ws">[Code]</a>
-        </div>
-    </div>
-
 </div>
 
 
@@ -153,6 +257,8 @@ See the full list of my publication [here](publications).
 
 
 ### Honors & Awards
+* **2025** Croucher Fellowship for Postdoctoral Research
+* **2025** Robotics: Science and Systems (RSS) Pioneer
 * **2019-2021** Croucher Scholarship for Doctoral Study (Full Scholarship)
 * **2019** Best Paper Finalist, IROS Vision-based Drones Workshop
 * **2018** HMC INQ Inaugural Class (Harvey Mudd Startup Incubator)
