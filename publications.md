@@ -11,8 +11,13 @@ css: /css/cherie.css
             <img id="thumbnail" src="/img/messymem_thumbnail.gif"/>
         </div>
         <div id="content">
-            <b>MessyMem: Learning-from-Doing Memory for Mobile Manipulation</b><br>
+            <a href="https://messymem.github.io/"><b>MessyMem: Learning-from-Doing Memory for Mobile Manipulation</b></a><br>
             Anuva Banwasi, William Muckelroy III, Priya Sundaresan, Linfeng Zhao, Jeannette Bohg, <b>Cherie Ho</b>
+            <br>
+            <br>
+            <i>Conference on Robot Learning (CoRL)</i>, 2026
+            <br>
+            <a href="https://messymem.github.io/">[Website]</a>
         </div>
     </div>
 
@@ -21,8 +26,13 @@ css: /css/cherie.css
             <img id="thumbnail" src="/img/messynav_thumbnail.gif"/>
         </div>
         <div id="content">
-            <b>MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments</b><br>
+            <a href="https://messynav.github.io/"><b>MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments</b></a><br>
             Kenneth Llontop, <b>Cherie Ho</b>, Dylan Zhou, Anuva Banwasi, Carlota Pares-Morlans, Priya Sundaresan, Jeannette Bohg
+            <br>
+            <br>
+            <i>Conference on Robot Learning (CoRL)</i>, 2026
+            <br>
+            <a href="https://messynav.github.io/">[Website]</a>
         </div>
     </div>
 

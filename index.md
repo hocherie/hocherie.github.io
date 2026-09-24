@@ -66,6 +66,7 @@ Email: cherieho at stanford dot edu
 <!-- During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan. -->
 
 ### Recent News 
+* **09/26** Two papers accepted to CoRL 2026! [MessyMem](https://messymem.github.io/) on learning-from-doing memory for mobile manipulation, and [MessyNav](https://messynav.github.io/) on zero-shot navigation via manipulation in messy environments.
 * **06/26** Robot evaluation is hard! We wrote a [blog on practical frameworks for robot evaluation](https://medium.com/@rssroboeval/how-should-we-evaluate-robots-insights-from-rss-2025-workshop-a221fd54c0ff) based on our RSS workshop.
 * **03/26** Gave a guest lecture for JHU's Introduction to Robot Learning course!
 * **07/25** Started my postdoc at Stanford with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) working on mobile manipulators!
@@ -96,11 +97,13 @@ See the full list of my publication [here](publications).
             <img id="thumbnail" src="img/messymem_thumbnail.gif"/>
         </div>
         <div id="content">
-            <b>MessyMem: Learning-from-Doing Memory for Mobile Manipulation</b><br>
+            <a href="https://messymem.github.io/"><b>MessyMem: Learning-from-Doing Memory for Mobile Manipulation</b></a><br>
             Anuva Banwasi, William Muckelroy III, Priya Sundaresan, Linfeng Zhao, Jeannette Bohg, <b>Cherie Ho</b>
             <br>
             <br>
-            <i>Coming soon</i>
+            <i>Conference on Robot Learning (CoRL)</i>, 2026
+            <br>
+            <a href="https://messymem.github.io/">[Website]</a>
         </div>
     </div>
 
@@ -109,11 +112,13 @@ See the full list of my publication [here](publications).
             <img id="thumbnail" src="img/messynav_thumbnail.gif"/>
         </div>
         <div id="content">
-            <b>MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments</b><br>
+            <a href="https://messynav.github.io/"><b>MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments</b></a><br>
             Kenneth Llontop, <b>Cherie Ho</b>, Dylan Zhou, Anuva Banwasi, Carlota Pares-Morlans, Priya Sundaresan, Jeannette Bohg
             <br>
             <br>
-            <i>Coming soon</i>
+            <i>Conference on Robot Learning (CoRL)</i>, 2026
+            <br>
+            <a href="https://messynav.github.io/">[Website]</a>
         </div>
     </div>
 
