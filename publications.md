@@ -17,7 +17,7 @@ css: /css/cherie.css
             <br>
             <i>Conference on Robot Learning (CoRL)</i>, 2026
             <br>
-            <a href="https://messymem.github.io/">[Website]</a>
+            <a href="https://messymem.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2609.15976">[arXiv]</a>
         </div>
     </div>
 

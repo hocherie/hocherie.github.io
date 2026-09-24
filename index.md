@@ -65,14 +65,15 @@ Email: cherieho at stanford dot edu
 
 <!-- During my PhD, I interned with [Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/) and [Shuang Ma](https://www.shuangma.me/) at Microsoft. I did my undergrad at Harvey Mudd College, where I worked with [Chris Clark](https://www.lair.hmc.edu/chris-clark) on [shark-tracking underwater robots](sharktracking). Between Harvey Mudd and CMU, I cofounded Zenith Robotics with Chris Clark and Vai Viswanathan. -->
 
-### Recent News 
-* **09/26** Two papers accepted to CoRL 2026! [MessyMem](https://messymem.github.io/) on learning-from-doing memory for mobile manipulation, and [MessyNav](https://messynav.github.io/) on zero-shot navigation via manipulation in messy environments.
+### Selected News
+* **09/26** Honored to be selected for [Rising Stars in Mechanical Engineering](https://risingstarsme.stanford.edu/)!
+* **09/26** Two papers accepted to CoRL 2026! [MessyMem](https://messymem.github.io/) on memory for agentic robots, and [MessyNav](https://messynav.github.io/) on reasoning for navigation via manipulation.
 * **06/26** Robot evaluation is hard! We wrote a [blog on practical frameworks for robot evaluation](https://medium.com/@rssroboeval/how-should-we-evaluate-robots-insights-from-rss-2025-workshop-a221fd54c0ff) based on our RSS workshop.
 * **03/26** Gave a guest lecture for JHU's Introduction to Robot Learning course!
-* **07/25** Started my postdoc at Stanford with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) working on mobile manipulators!
+<!-- * **07/25** Started my postdoc at Stanford with [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/) working on mobile manipulators! -->
 * **07/25** Gratefully awarded the [Croucher Fellowship](https://croucher.org.hk/en/fellows-and-scholars/cherie-ho) for two years of postdoc funding to work on "Flexible and Self-Improving Robots"!
 * **04/25** Honored to be one of the 33 [RSS Pioneers](https://roboticsconference.org/program/pioneers/).
-* **01/25** 2 papers accepted to ICRA 2025! One on [predicting world models for exploration](https://mapex-explorer.github.io/), another on [autonomous exploration and adaptation for offroad driving](https://theairlab.org/SALON/).
+<!-- * **01/25** 2 papers accepted to ICRA 2025! One on [predicting world models for exploration](https://mapex-explorer.github.io/), another on [autonomous exploration and adaptation for offroad driving](https://theairlab.org/SALON/). -->
 * **10/24** Thrilled to be at [OECD](https://www.oecd.org/) in Paris for the [AI and the Future of Skills](https://www.oecd.org/en/about/projects/artificial-intelligence-and-future-of-skills.html) AI expert meeting. Excited to capture thoughts on measuring robotics capability in the "Robotic intelligence scale" chapter of the OECD's [AI Capability Indicators whitepaper](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/introducing-the-oecd-ai-capability-indicators_7c0731f0/be745f04-en.pdf)!
 <!-- * **09/24** Paper on [*empowering map prediction with large-scale public data*](https://mapitanywhere.github.io/) accepted to NeurIPS 2024! Looking forward to Vancouver! -->
 <!-- * **07/24** Paper on [*online learning for offroad driving*](https://arxiv.org/abs/2306.15226) accepted to IROS 2024! See you in Abu Dhabi! -->
@@ -103,7 +104,7 @@ See the full list of my publication [here](publications).
             <br>
             <i>Conference on Robot Learning (CoRL)</i>, 2026
             <br>
-            <a href="https://messymem.github.io/">[Website]</a>
+            <a href="https://messymem.github.io/">[Website]</a> <a href="https://arxiv.org/abs/2609.15976">[arXiv]</a>
         </div>
     </div>
 
